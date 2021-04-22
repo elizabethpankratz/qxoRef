@@ -1,0 +1,305 @@
+index	quechua	speaker	stem_gloss	tag	coref
+1-2	unayshi	P2		_	-
+1	unay	P2	long.ago	ADV	-
+2	-shi	P2		REP	-
+3	huk	P2	one	NUM	(3
+4	runa	P2	person	NOUN	3)
+5-6	hirkapa	P2		_	(18
+5	hirka	P2	hill	NOUN	-
+6	-pa	P2		GEN	18)
+7-8	aywanaa	P2		_	-
+7	aywa	P2	go	VERB	-
+8	-naa	P2		PST.REP	-
+9	hampi	P2	medicine	NOUN	(4)
+10-11	ashiq	P2		_	-
+10	ashi	P2	search	VERB	-
+11	-q	P2		AG	-
+					
+12	y	P2	and	CONJ	-
+13-14	tsayshi	P2		_	-
+13	tsay	P2		DEM.DIST	-
+14	-shi	P2		REP	-
+15	aywa	P2	go	VERB	-
+16-20	aywaykaarnin	P2		_	-
+16	aywa	P2	go	VERB	-
+17	-ykaa	P2		PROG	-
+18	-r	P2		SUBID	-
+19	-ni	P2		FON	-
+20	-n	P2		3	-
+21-23	aywakunaa	P2		_	-
+21	aywa	P2	go	VERB	-
+22	-ku	P2		MID	-
+23	-naa	P2		PST.REP	-
+					
+24	y	P2	and	CONJ	-
+25	tsay	P2		DEM.DIST	(18
+26-27	hirkachaw	P2		_	-
+26	hirka	P2	mountain	NOUN	-
+27	-chaw	P2		LOC	18)
+28-30	punukunaa	P2		_	-
+28	punu	P2	sleep	VERB	-
+29	-ku	P2		MID	-
+30	-naa	P2		PST.REP	-
+					
+31	y	P2	and	CONJ	-
+32	tsay	P2		DEM.DIST	-
+33-37	shuyararnin	P2		_	-
+33	shuya	P2	wait	VERB	-
+34	-ra	P2		PST	-
+35	-r	P2		SUBID	-
+36	-ni	P2		FON	-
+37	-n	P2		3	-
+38	waray	P2	next.day	ADV	(11)
+39	mana	P2	no	NEG	-
+40-42	apakunaa	P2		_	-
+40	apa	P2	bring	VERB	-
+41	-ku	P2		MID	-
+42	-naa	P2		PST.REP	-
+43-44	kanchata	P2		_	(7
+43	kancha	P2	cancha	NOUN	-
+44	-ta	P2		OBJ	7)
+45	y	P2	and	CONJ	-
+46-47	aychata	P2		_	(8
+46	aycha	P2	meat	NOUN	-
+47	-ta	P2		OBJ	8)
+					
+48-49	tsayshi	P2		_	-
+48	tsay	P2		DEM.DIST	-
+49	-shi	P2		REP	-
+50-56	ushakaapakuskirnin	P2		_	-
+50	usha	P2	finish	VERB	-
+51	-kaa	P2		MID	-
+52	-paku	P2		UNSPEC	-
+53	-ski	P2		ITER	-
+54	-r	P2		SUBID	-
+55	-ni	P2		FON	-
+56	-n	P2		3	-
+57-59	waraynin	P2		_	(11
+57	waray	P2	next.day	ADV	-
+58	-ni	P2		FON	-
+59	-n	P2		3	11)
+60-61	warayna	P2		_	(11
+60	waray	P2	next.day	ADV	-
+61	-na	P2		DISC	11)
+62-64	chuspikunata	P2		_	(9
+62	chuspi	P2	fly	VERB	-
+63	-kuna	P2		PL	-
+64	-ta	P2		OBJ	9)
+65-66	mikunaa	P2		_	-
+65	miku	P2	eat	VERB	-
+66	-naa	P2		PST.REP	-
+67-69	cincuntinta	P2		_	-
+67	cincu	P2	five	NUM	-
+68	-ntin	P2		INTEG	-
+69	-ta	P2		OBJ	-
+					
+70	y	P2	and	CONJ	-
+71-72	tsayshi	P2		_	-
+71	tsay	P2		DEM.DIST	-
+72	-shi	P2		REP	-
+73-74	tsayta	P2		_	(9
+73	tsay	P2		DEM.DIST	-
+74	-ta	P2		OBJ	9)
+75	mana	P2	no	NEG	-
+76	mallaqay	P2	hunger	NOUN	(21)
+77-78	mikushqa	P2		_	-
+77	miku	P2	eat	VERB	-
+78	-shqa	P2		PRTCP	-
+79	tsay	P2		DEM.DIST	-
+80	yapay	P2	again	ADV	-
+81-82	aywashaa	P2		_	-
+81	aywa	P2	go	VERB	-
+82	-shaa	P2		PRTCP	-
+					
+83	tsay	P2		DEM.DIST	(25
+84	huk	P2	one	NUM	-
+85-86	wahiman	P2		_	-
+85	wahi	P2	house	NOUN	-
+86	-man	P2		DEST	25)
+87	huk	P2	one	NUM	(3
+88-89	runaqa	P2		_	-
+88	runa	P2	person	NOUN	-
+89	-qa	P2		TOP	3)
+90-91	tsaychaw	P2		_	-
+90	tsay	P2		DEM.DIST	-
+91	-chaw	P2		LOC	-
+92-94	kaykaanaa	P2		_	-
+92	ka	P2		COP	-
+93	-ykaa	P2		PROG	-
+94	-naa	P2		PST.REP	-
+95-96	tsayman	P2		_	(25
+95	tsay	P2		DEM.DIST	-
+96	-man	P2		DEST	25)
+97-98	chaashqa	P2		_	-
+97	chaa	P2	arrive	VERB	-
+98	-shqa	P2		PRTCP	-
+					
+99-104	chaaskirninqa	P2		_	-
+99	chaa	P2	arrive	VERB	-
+100	-ski	P2		ITER	-
+101	-r	P2		SUBID	-
+102	-ni	P2		FON	-
+103	-n	P2		3	-
+104	-qa	P2		TOP	-
+105	tsay	P2		DEM.DIST	(3
+106-107	runata	P2		_	-
+106	runa	P2	person	NOUN	-
+107	-ta	P2		OBJ	3)
+108-110	tapukushqa	P2		_	-
+108	tapu	P2	ask	VERB	-
+109	-ku	P2		MID	-
+110	-shqa	P2		PRTCP	-
+					
+111-113	maychawtaa	P2		_	-
+111	may	P2	where	WH	-
+112	-chaw	P2		LOC	-
+113	-taa	P2		DETVAR	-
+114-116	hampikunata	P2		_	(4
+114	hampi	P2	medicine	NOUN	-
+115	-kuna	P2		PL	-
+116	-ta	P2		OBJ	4)
+117	o	P2	or	CONJ	-
+118-120	maychawtaa	P2		_	-
+118	may	P2	where	WH	-
+119	-chaw	P2		LOC	-
+120	-taa	P2		DETVAR	-
+121	hampi	P2	medicine	NOUN	(4)
+					
+122-123	nishqa	P2		_	-
+122	ni	P2	say	VERB	-
+123	-shqa	P2		PRTCP	-
+					
+124	y	P2	and	CONJ	-
+125	tsay	P2		DEM.DIST	(12
+126-127	runaqa	P2		_	-
+126	runa	P2	person	NOUN	-
+127	-qa	P2		TOP	12)
+128-129	nishqa	P2		_	-
+128	ni	P2	say	VERB	-
+129	-shqa	P2		PRTCP	-
+					
+130-132	almaykita	P2		_	(14
+130	alma	P2	soul	NOUN	-
+131	-yki	P2		2	-
+132	-ta	P2		OBJ	14)
+133	o	P2	or	CONJ	-
+134-137	hupayniykita	P2		_	(14
+134	hupay	P2	soul	NOUN	-
+135	-ni	P2		FON	-
+136	-yki	P2		2	-
+137	-ta	P2		OBJ	14)
+138-142	aptarkatsimaay	P2		_	-
+138	apta	P2	grab	VERB	-
+139	-rka	P2		DIR	-
+140	-tsi	P2		CAUS	-
+141	-maa	P2		1.OBJ	-
+142	-y	P2		INF	-
+143	tsay	P2		DEM.DIST	-
+					
+144-145	nisha	P2		_	-
+144	ni	P2	say	VERB	-
+145	-sha	P2		PRTCP	-
+					
+146	y	P2	and	CONJ	-
+147-148	tsayqa	P2		_	(3
+147	tsay	P2		DEM.DIST	-
+148	-qa	P2		TOP	3)
+149	tsay	P2		DEM.DIST	(3
+150	huk	P2	one	NUM	-
+151-152	runaqa	P2		_	-
+151	runa	P2	person	NOUN	-
+152	-qa	P2		TOP	3)
+153-155	aptatsisha	P2		_	-
+153	apta	P2	grab	VERB	-
+154	-tsi	P2		CAUS	-
+155	-sha	P2		PRTCP	-
+156	tsay	P2		DEM.DIST	(9
+157	cinco	P2	five	NUM	-
+158-159	chuspipa	P2		_	-
+158	chuspi	P2	fly	NOUN	-
+159	-pa	P2		GEN	9)
+160-164	hanankunallata	P2		_	-
+160	hana	P2	above	PREP	-
+161	-n	P2		3	-
+162	-kuna	P2		PL	-
+163	-lla	P2		LIM	-
+164	-ta	P2		OBJ	-
+165-170	hupayninkunallata	P2		_	(15
+165	hupay	P2	soul	NOUN	-
+166	-ni	P2		FON	-
+167	-n	P2		3	-
+168	-kuna	P2		PL	-
+169	-lla	P2		LIM	-
+170	-ta	P2		OBJ	15)
+					
+171	y	P2	and	CONJ	-
+172-173	tsayta	P2		_	(15
+172	tsay	P2		DEM.DIST	-
+173	-ta	P2		OBJ	15)
+174-180	aptarkatsiptinqash	P2		_	-
+174	apta	P2	grab	VERB	-
+175	-rka	P2		DIR	-
+176	-tsi	P2		CAUS	-
+177	-pti	P2		SUBDIFF	-
+178	-n	P2		3	-
+179	-qa	P2		TOP	-
+180	-sh	P2		REP	-
+					
+181	contento	P2	happy	ADJ	-
+182	que	P2	that	SUBJ	-
+183	era	P2	was	VERB	-
+184	con	P2	with	PREP	-
+185-186	runaqa	P2		_	(12
+185	runa	P2	person	NOUN	-
+186	-qa	P2		TOP	12)
+					
+187	tsay	P2		DEM.DIST	-
+188-189	willashqa	P2		_	-
+188	willa	P2	tell	VERB	-
+189	-shqa	P2		PRTCP	-
+					
+190	y	P2	and	CONJ	-
+191	tsay	P2		DEM.DIST	(3
+192-193	runaqa	P2		_	-
+192	runa	P2	person	NOUN	-
+193	-qa	P2		TOP	3)
+194-196	paasashaan	P2		_	-
+194	paasa	P2	pass	VERB	-
+195	-shaa	P2		PRTCP	-
+196	-n	P2		3	-
+					
+197	y	P2	and	CONJ	-
+198-199	tsayshi	P2		_	-
+198	tsay	P2		DEM.DIST	-
+199	-shi	P2		REP	-
+200-205	paasaskirninqa	P2		_	-
+200	paasa	P2	pass	VERB	-
+201	-ski	P2		ITER	-
+202	-r	P2		SUBID	-
+203	-ni	P2		FON	-
+204	-n	P2		3	-
+205	-qa	P2		TOP	-
+206-207	tarish	P2		_	-
+206	tari	P2	find	VERB	-
+207	-sh	P2		PRTCP	-
+208	huk	P2	one	NUM	(4
+209-212	hampikunataqa	P2		_	-
+209	hampi	P2	medicine	NOUN	-
+210	-kuna	P2		PL	-
+211	-ta	P2		OBJ	-
+212	-qa	P2		TOP	4)
+					
+213	contento	P2	happy	ADJ	-
+214-217	kakunqa	P2		_	-
+214	ka	P2		COP	-
+215	-ku	P2		MID	-
+216	-n	P2		3	-
+217	-qa	P2		TOP	-
+218	y	P2	and	CONJ	-
+219-224	tariskirninqa	P2		_	-
+219	tari	P2	find	VERB	-
+220	-ski	P2		ITER	-
+221	-r	P2		SUBID	-
+222	-ni	P2		FON	-
+223	-n	P2		3	-
+224	-qa	P2		TOP	-

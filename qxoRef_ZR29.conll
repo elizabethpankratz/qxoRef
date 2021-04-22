@@ -1,0 +1,445 @@
+index	quechua	speaker	stem_gloss	tag	coref
+1	huk	P1	one	NUM	(28
+2-3	ayash	P1		_	-
+2	aya	P1	cadaver	NOUN	-
+3	-sh	P1		REP	28)
+4-6	akakakunawan	P1		_	(27
+4	akaka	P1	woodpecker	NOUN	-
+5	-kuna	P1		PL	-
+6	-wan	P1		INS	27)
+7-9	tinkurinaa	P1		_	-
+7	tinku	P1	find	VERB	-
+8	-ri	P1		ITER	-
+9	-naa	P1		PST.REP	-
+					
+10-11	tsayshi	P1		_	-
+10	tsay	P1		DEM.DIST	-
+11	-shi	P1		REP	-
+12-15	tinkuskirqa	P1		_	-
+12	tinku	P1	find	VERB	-
+13	-ski	P1		ITER	-
+14	-r	P1		SUBID	-
+15	-qa	P1		TOP	-
+					
+16	tsay	P1		DEM.DIST	(27
+17-18	akakakuna	P1		_	-
+17	akaka	P1	woodpecker	NOUN	-
+18	-kuna	P1		PL	27)
+19-22	kaykaayaanaa	P1		_	-
+19	ka	P1		COP	-
+20	-ykaa	P1		PROG	-
+21	-yaa	P1		PL	-
+22	-naa	P1		PST.REP	-
+23	huk	P1	one	NUM	(29
+24	este	P1	uhm	DISCRS	-
+25	alisu	P1	alder	NOUN	29)
+26-28	hawanchaw	P1		_	-
+26	hawa	P1	below	PREP	-
+27	-n	P1		3	-
+28	-chaw	P1		LOC	-
+					
+29	tsay	P1		DEM.DIST	(27
+30-32	akakakunash	P1		_	-
+30	akaka	P1	woodpecker	NOUN	-
+31	-kuna	P1		PL	-
+32	-sh	P1		REP	27)
+33-35	kayaanaa	P1		_	-
+33	ka	P1		COP	-
+34	-yaa	P1		PL	-
+35	-naa	P1		PST.REP	-
+36	este	P1	uhm	DISCRS	-
+					
+37	huk	P1	one	NUM	(27|(3
+38	hampikuq	P1	healer	NOUN	-
+39-40	runapa	P1		_	-
+39	runa	P1	person	NOUN	-
+40	-pa	P1		GEN	3)
+41-43	wamrankuna	P1		_	-
+41	wamra	P1	child	NOUN	-
+42	-n	P1		3	-
+43	-kuna	P1		PL	27)
+					
+44	y	P1	and	CONJ	-
+45-47	tsaykunash	P1		_	(27
+45	tsay	P1		DEM.DIST	-
+46	-kuna	P1		PL	-
+47	-sh	P1		REP	27)
+48-49	uwata	P1		_	(30
+48	uwa	P1	louse	NOUN	-
+49	-ta	P1		OBJ	30)
+50-52	mikuyaq	P1		_	-
+50	miku	P1	eat	VERB	-
+51	-ya	P1		PL	-
+52	-q	P1		PST.HAB	-
+					
+53	y	P1	and	CONJ	-
+54	tsay	P1		DEM.DIST	(30
+55-56	uwata	P1		_	-
+55	uwa	P1	louse	NOUN	-
+56	-ta	P1		OBJ	30)
+57-60	mikuyaptin	P1		_	-
+57	miku	P1	eat	VERB	-
+58	-ya	P1		PL	-
+59	-pti	P1		SUBDIFF	-
+60	-n	P1		3	-
+61-62	ayawan	P1		_	(28
+61	aya	P1	cadaver	NOUN	-
+62	-wan	P1		INS	28)
+63-66	tinkuskirqa	P1		_	-
+63	tinku	P1	find	VERB	-
+64	-ski	P1		ITER	-
+65	-r	P1		SUBID	-
+66	-qa	P1		TOP	-
+					
+67	tsay	P1		DEM.DIST	(28
+68-69	ayaqa	P1		_	-
+68	aya	P1	cadaver	NOUN	-
+69	-qa	P1		TOP	28)
+70	tsay	P1		DEM.DIST	(27
+71-73	akakakunata	P1		_	-
+71	akaka	P1	woodpecker	NOUN	-
+72	-kuna	P1		PL	-
+73	-ta	P1		OBJ	27)
+74-76	tapukunaa	P1		_	-
+74	tapu	P1	ask	VERB	-
+75	-ku	P1		MID	-
+76	-naa	P1		PST.REP	-
+					
+77-79	maychawtaa	P1		_	-
+77	may	P1	where	WH	-
+78	-chaw	P1		LOC	-
+79	-taa	P1		DETVAR	-
+80-81	kaychaw	P1		_	-
+80	kay	P1		DEM.PROX	-
+81	-chaw	P1		LOC	-
+82	huk	P1	one	NUM	(3
+83	runa	P1	person	NOUN	-
+84	hampikuq	P1	healer	NOUN	3)
+					
+85-86	hampikuqpa	P1		_	(27|(3
+85	hampikuq	P1	healer	NOUN	-
+86	-pa	P1		GEN	3)
+87-89	wawanshi	P1		_	-
+87	wawa	P1	child	NOUN	-
+88	-n	P1		3	-
+89	-shi	P1		REP	27)
+90-91	qamkuna	P1		_	(27
+90	qam	P1	you	PRON	-
+91	-kuna	P1		PL	27)
+92-94	kayaanki	P1		_	-
+92	ka	P1		COP	-
+93	-yaa	P1		PL	-
+94	-nki	P1		2	-
+					
+95-97	qishyaami	P1		_	-
+95	qishya	P1	be.sick	VERB	-
+96	-a	P1		1	-
+97	-mi	P1		ASS	-
+98	ayllu	P1	probably	DISCRS	-
+99-102	hampikuyta	P1		_	-
+99	hampi	P1	heal	VERB	-
+100	-ku	P1		MID	-
+101	-y	P1		INF	-
+102	-ta	P1		OBJ	-
+103-104	munaa	P1		_	-
+103	muna	P1	want	VERB	-
+104	-a	P1		1	-
+					
+105-106	ninaa	P1		_	-
+105	ni	P1	say	VERB	-
+106	-naa	P1		PST.REP	-
+					
+107	y	P1	and	CONJ	-
+108	tsay	P1		DEM.DIST	-
+109-112	niptinshi	P1		_	-
+109	ni	P1	say	VERB	-
+110	-pti	P1		SUBDIFF	-
+111	-n	P1		2	-
+112	-shi	P1		REP	-
+113-114	akakakuna	P1		_	(27
+113	akaka	P1	woodpecker	NOUN	-
+114	-kuna	P1		PL	27)
+115-117	asiskir	P1		_	-
+115	asi	P1	laugh	VERB	-
+116	-ski	P1		ITER	-
+117	-r	P1		SUBID	-
+118-120	niyaanaa	P1		_	-
+118	ni	P1	say	VERB	-
+119	-yaa	P1		PL	-
+120	-naa	P1		PST.REP	-
+					
+121-123	imanawtaa	P1		_	-
+121	ima	P1	what	WH	-
+122	-naw	P1		SIMIL	-
+123	-taa	P1		DETVAR	-
+124-126	nayaashayki	P1		_	-
+124	na	P1		PSSP	-
+125	-yaa	P1		PL	-
+126	-shayki	P1		1.SUB>2.OBJ.FUT	-
+127	qam	P1	you	PRON	(28)
+128-131	hampikuyta	P1		_	-
+128	hampi	P1	heal	VERB	-
+129	-ku	P1		MID	-
+130	-y	P1		INF	-
+131	-ta	P1		OBJ	-
+132-133	munanki	P1		_	-
+132	muna	P1	want	VERB	-
+133	-nki	P1		2	-
+					
+134-135	qamqa	P1		_	(28
+134	qam	P1	you	PRON	-
+135	-qa	P1		TOP	28)
+136	si	P1	yes	DISCRS	-
+137-139	wanushqacha	P1		_	-
+137	wanu	P1	die	VERB	-
+138	-shqa	P1		PRTCP	-
+139	-cha	P1		ASS	-
+140-141	kanki	P1		_	-
+140	ka	P1		COP	-
+141	-nki	P1		2	-
+					
+142-144	niyaanaa	P1		_	-
+142	ni	P1	say	VERB	-
+143	-yaa	P1		PL	-
+144	-naa	P1		PST.REP	-
+					
+145	imanaw	P2	how	WH	-
+146-148	nirqayki	P2		_	-
+146	ni	P2	say	VERB	-
+147	-rqa	P2		PST	-
+148	-yki	P2		2	-
+					
+149-151	primerullapa	P2		_	-
+149	primeru	P2	first	ADV	-
+150	-lla	P2		LIM	-
+151	-pa	P2		GEN	-
+152	cuentame	P2	tell.me	VERB	-
+					
+153-154	manachi	P1		_	-
+153	mana	P1	no	NEG	-
+154	-chi	P1		CONJ	-
+155-158	entienderqaykitsu	P1		_	-
+155	entiende	P1	understand	VERB	-
+156	-rqa	P1		PST	-
+157	-yki	P1		2	-
+158	-tsu	P1		NEG	-
+159	ni	P1	no	NEG	-
+160-162	imatasi	P1		_	-
+160	ima	P1	what	WH	-
+161	-ta	P1		OBJ	-
+162	-si	P1		ADD	-
+					
+163	mana	P2	no	NEG	-
+					
+164	huk	P1	one	NUM	-
+					
+165	ya	P1	come	DISCRS	-
+166	pe	P1	on	DISCRS	-
+					
+167-169	wiyaamaay	P1		_	-
+167	wiyaa	P1	hear	VERB	-
+168	-maa	P1		1.OBJ	-
+169	-y	P1		INF	-
+170	ari	P1	yes	DISCRS	-
+171-172	cuentashqayki	P1		_	-
+171	cuenta	P1	tell	VERB	-
+172	-shqayki	P1		1.SUB>2.OBJ.FUT	-
+					
+173	huk	P1	one	NUM	(28
+174-175	ayash	P1		_	-
+174	aya	P1	cadaver	NOUN	-
+175	-sh	P1		REP	28)
+176-178	akakakunawan	P1		_	(27
+176	akaka	P1	woodpecker	NOUN	-
+177	-kuna	P1		PL	-
+178	-wan	P1		INS	27)
+179-182	tinkuriyaanaa	P1		_	-
+179	tinku	P1	meet	VERB	-
+180	-ri	P1		ITER	-
+181	-yaa	P1		PL	-
+182	-naa	P1		PST.REP	-
+					
+183	tsay	P1		DEM.DIST	(27
+184-186	akakakunash	P1		_	-
+184	akaka	P1	woodpecker	NOUN	-
+185	-kuna	P1		PL	-
+186	-sh	P1		REP	27)
+187-189	taayaanaa	P1		_	-
+187	taa	P1	live	VERB	-
+188	-yaa	P1		PL	-
+189	-naa	P1		PST.REP	-
+190	huk	P1	one	NUM	(29
+191	alisu	P1	alder	NOUN	29)
+192-194	hawanchaw	P1		_	-
+192	hawa	P1	below	PREP	-
+193	-n	P1		3	-
+194	-chaw	P1		LOC	-
+					
+195	y	P1	and	CONJ	-
+196	tsay	P1		DEM.DIST	(27
+197-199	akakakunash	P1		_	-
+197	akaka	P1	woodpecker	NOUN	-
+198	-kuna	P1		PL	-
+199	-sh	P1		REP	27)
+200-201	kanaa	P1		_	-
+200	ka	P1		COP	-
+201	-naa	P1		PST.REP	-
+202	este	P1	uhm	DISCRS	-
+203	huk	P1	one	NUM	(27|(3
+204	hampikuq	P1	healer	NOUN	-
+205-206	runapa	P1		_	-
+205	runa	P1	person	NOUN	-
+206	-pa	P1		GEN	3)
+207-209	wamrankuna	P1		_	-
+207	wamra	P1	child	NOUN	-
+208	-n	P1		3	-
+209	-kuna	P1		PL	27)
+					
+210	y	P1	and	CONJ	-
+211	tsay	P1		DEM.DIST	(27|(3
+212	hampikuq	P1	healer	NOUN	-
+213-214	runapa	P1		_	-
+213	runa	P1	person	NOUN	-
+214	-pa	P1		GEN	3)
+215-216	wamrakuna	P1		_	-
+215	wamra	P1	child	NOUN	-
+216	-kuna	P1		PL	27)
+217-219	kaptin	P1		_	-
+217	ka	P1		COP	-
+218	-pti	P1		SUBDIFF	-
+219	-n	P1		3	-
+					
+220	y	P1	and	CONJ	-
+221-222	paykuna	P1		_	(27
+221	pay	P1		3	-
+222	-kuna	P1		PL	27)
+223	este	P1	uhm	DISCRS	-
+224-225	uwata	P1		_	(30
+224	uwa	P1	louse	NOUN	-
+225	-ta	P1		OBJ	30)
+226-228	mikuyaaq	P1		_	-
+226	miku	P1	eat	VERB	-
+227	-yaa	P1		PL	-
+228	-q	P1		PST.HAB	-
+					
+229-230	ankakuna	P2		_	(31
+229	anka	P2	eagle	NOUN	-
+230	-kuna	P2		PL	31)
+					
+231	tsay	P1		DEM.DIST	(27
+232-233	akakakuna	P1		_	-
+232	akaka	P1	woodpecker	NOUN	-
+233	-kuna	P1		PL	27)
+					
+234	y	P1	and	CONJ	-
+235-236	tsayshi	P1		_	-
+235	tsay	P1		DEM.DIST	-
+236	-shi	P1		REP	-
+237	tsay	P1		DEM.DIST	(28
+238-239	ayaqa	P1		_	-
+238	aya	P1	cadaver	NOUN	-
+239	-qa	P1		TOP	28)
+240-242	tapukunaa	P1		_	-
+240	tapu	P1	ask	VERB	-
+241	-ku	P1		MID	-
+242	-naa	P1		PST.REP	-
+					
+243-244	tsayshi	P1		_	-
+243	tsay	P1		DEM.DIST	-
+244	-shi	P1		REP	-
+245-246	ninaa	P1		_	-
+245	ni	P1	say	VERB	-
+246	-naa	P1		PST.REP	-
+					
+247-249	maychawtaa	P1		_	-
+247	may	P1	where	WH	-
+248	-chaw	P1		LOC	-
+249	-taa	P1		DETVAR	-
+					
+250-252	qamkunash	P1		_	(28
+250	qam	P1	you	PRON	-
+251	-kuna	P1		PL	-
+252	-sh	P1		REP	28)
+253-255	kayanki	P1		_	-
+253	ka	P1		COP	-
+254	-ya	P1		PL	-
+255	-nki	P1		2	-
+256	huk	P1	one	NUM	(27|(3
+257	hampikuq	P1	healer	NOUN	-
+258	runa	P1	person	NOUN	3)
+259-261	wamrankuna	P1		_	-
+259	wamra	P1	child	NOUN	-
+260	-n	P1		3	-
+261	-kuna	P1		PL	27)
+					
+262-266	tapukuyaashqayki	P1		_	-
+262	tapu	P1	ask	VERB	-
+263	-ku	P1		MID	-
+264	-yaa	P1		PL	-
+265	-shqa	P1		1.FUT	-
+266	-yki	P1		2	-
+					
+267-269	maychawtaa	P1		_	-
+267	may	P1	where	WH	-
+268	-chaw	P1		LOC	-
+269	-taa	P1		DETVAR	-
+270-272	hampikusha	P1		_	-
+270	hampi	P1	heal	VERB	-
+271	-ku	P1		MID	-
+272	-sha	P1		1.FUT	-
+					
+273-275	qishyaami	P1		_	-
+273	qishya	P1	be.sick	VERB	-
+274	-a	P1		1	-
+275	-mi	P1		ASS	-
+276	ayllu	P1	probably	DISCRS	-
+					
+277-278	ninaa	P1		_	-
+277	ni	P1	say	VERB	-
+278	-naa	P1		PST.REP	-
+279-282	niptinshi	P1		_	-
+279	ni	P1	say	VERB	-
+280	-pti	P1		SUBDIFF	-
+281	-n	P1		3	-
+282	-shi	P1		REP	-
+					
+283-284	akakakuna	P1		_	(27
+283	akaka	P1	woodpecker	NOUN	-
+284	-kuna	P1		PL	27)
+285-287	asiskir	P1		_	-
+285	asi	P1	laugh	VERB	-
+286	-ski	P1		ITER	-
+287	-r	P1		SUBID	-
+288-290	niyaanaa	P1		_	-
+288	ni	P1	say	VERB	-
+289	-yaa	P1		PL	-
+290	-naa	P1		PST.REP	-
+					
+291-292	imanawtaa	P1		_	-
+291	imanaw	P1	how	WH	-
+292	-taa	P1		DETVAR	-
+293	qam	P1	you	PRON	(28)
+294-296	hampikunki	P1		_	-
+294	hampi	P1	heal	VERB	-
+295	-ku	P1		MID	-
+296	-nki	P1		2	-
+297-299	wañushaaqa	P1		_	-
+297	wañu	P1	die	VERB	-
+298	-shaa	P1		PST	-
+299	-qa	P1		TOP	-
+					
+300-302	niyaanaa	P1		_	-
+300	ni	P1	say	VERB	-
+301	-yaa	P1		PL	-
+302	-naa	P1		PST.REP	-
+					
+303-306	entiendirqaykiku	P1		_	-
+303	entiendi	P1	understand	VERB	-
+304	-rqa	P1		PST	-
+305	-yki	P1		2	-
+306	-ku	P1		Q	-
+307-308	manaku	P1		_	-
+307	mana	P1	no	NEG	-
+308	-ku	P1		Q	-
+					
+309	mana	P2	no	NEG	-

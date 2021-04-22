@@ -1,0 +1,636 @@
+index	quechua	speaker	stem_gloss	tag	coref
+1-2	unayshi	P1		_	-
+1	unay	P1	long.ago	ADV	-
+2	-shi	P1		REP	-
+3	huk	P1	one	NUM	(3
+4	runa	P1	person	NOUN	3)
+5-6	kanaa	P1		_	-
+5	ka	P1		COP	-
+6	-naa	P1		PST.REP	-
+7	hampikuq	P1	healer	NOUN	(3)
+					
+8-9	tsayshi	P1		_	-
+8	tsay	P1		DEM.DIST	-
+9	-shi	P1		REP	-
+10-11	aywanaa	P1		_	-
+10	aywa	P1	go	VERB	-
+11	-naa	P1		PST.REP	-
+12-13	hirkapa	P1		_	(18
+12	hirka	P1	hill	NOUN	-
+13	-pa	P1		GEN	18)
+14	hampi	P1	medicine	NOUN	(4)
+15-16	ashiq	P1		_	-
+15	ashi	P1	search	VERB	-
+16	-q	P1		AG	-
+					
+17-18	tsayshi	P1		_	-
+17	tsay	P1		DEM.DIST	-
+18	-shi	P1		REP	-
+19-22	tsakapakuskinaa	P1		_	-
+19	tsaka	P1	get.dark	VERB	-
+20	-paku	P1		UNSPEC	-
+21	-ski	P1		ITER	-
+22	-naa	P1		PST.REP	-
+					
+23	mana	P1	no	NEG	-
+24-26	apanaatsu	P1		_	-
+24	apa	P1	bring	VERB	-
+25	-naa	P1		PST.REP	-
+26	-tsu	P1		NEG	-
+27	luz	P1	light	NOUN	(19
+28	de	P1	of	PREP	-
+29-32	manontasi	P1		_	-
+29	mano	P1	hand	NOUN	-
+30	-n	P1		3	-
+31	-ta	P1		OBJ	-
+32	-si	P1		ADD	19)
+					
+33	tsay	P1		DEM.DIST	(20
+34-36	tsiqtsikunasi	P1		_	-
+34	tsiqtsi	P1	bat	NOUN	-
+35	-kuna	P1		PL	-
+36	-si	P1		ADD	20)
+37-39	yuriypanaa	P1		_	-
+37	yuriy	P1	appear	VERB	-
+38	-pa	P1		ITER	-
+39	-naa	P1		PST.REP	-
+					
+40	tsay	P1		DEM.DIST	(6
+41-42	fiambrin	P1		_	-
+41	fiambri	P1	lunch	NOUN	-
+42	-n	P1		3	6)
+					
+43-44	fiambrin	P1		_	(6
+43	fiambri	P1	lunch	NOUN	-
+44	-n	P1		3	6)
+45-48	ushakaskinaa	P1		_	-
+45	usha	P1	finish	VERB	-
+46	-ka	P1		MID	-
+47	-ski	P1		ITER	-
+48	-naa	P1		PST.REP	-
+					
+49-50	apanaa	P1		_	-
+49	apa	P1	bring	VERB	-
+50	-naa	P1		PST.REP	-
+51-53	aychatawan	P1		_	-
+51	aycha	P1	meat	NOUN	(6|(8
+52	-ta	P1		OBJ	-
+53	-wan	P1		INS	8)
+54-55	harata	P1		_	(7
+54	hara	P1	corn	NOUN	-
+55	-ta	P1		OBJ	7)|6)
+					
+56-57	tsayshi	P1		_	-
+56	tsay	P1		DEM.DIST	-
+57	-shi	P1		REP	-
+58-61	mallaqaaqnin	P1		_	-
+58	mallaqaa	P1	be.hungry	VERB	-
+59	-q	P1		AG	-
+60	-ni	P1		FON	-
+61	-n	P1		3	-
+62-64	waraynin	P1		_	(11
+62	waray	P1	next.day	ADV	-
+63	-ni	P1		FON	-
+64	-n	P1		3	11)
+65	waray	P1	next.day	ADV	(11)
+					
+66-67	nata	P1		_	-
+66	na	P1		PSSP	-
+67	-ta	P1		OBJ	-
+68-70	moscakunata	P1		_	(9
+68	mosca	P1	fly	NOUN	-
+69	-kuna	P1		PL	-
+70	-ta	P1		OBJ	9)
+71-72	mikunaa	P1		_	-
+71	miku	P1	eat	VERB	-
+72	-naa	P1		PST.REP	-
+					
+73-74	pitsqata	P1		_	-
+73	pitsqa	P1	five	NUM	-
+74	-ta	P1		OBJ	-
+75-77	mikuskinaa	P1		_	-
+75	miku	P1	eat	VERB	-
+76	-ski	P1		ITER	-
+77	-naa	P1		PST.REP	-
+					
+78-79	tsayshi	P1		_	-
+78	tsay	P1		DEM.DIST	-
+79	-shi	P1		REP	-
+80	huk	P1	one	NUM	(12
+81-82	runata	P1		_	-
+81	runa	P1	person	NOUN	-
+82	-ta	P1		OBJ	12)
+83-85	tapukunaa	P1		_	-
+83	tapu	P1	ask	VERB	-
+84	-ku	P1		MID	-
+85	-naa	P1		PST.REP	-
+86-87	hirkachaw	P1		_	(18
+86	hirka	P1	hill	NOUN	-
+87	-chaw	P1		LOC	18)
+88-91	tarikurnin	P1		_	-
+88	tari	P1	find	VERB	-
+89	-ku	P1		MID	-
+90	-r	P1		SUBID	-
+91	-nin	P1		3	-
+					
+92	huk	P1	one	NUM	(12
+93-94	qiwshulla	P1		_	-
+93	qiwshu	P1	squinty	ADJ	-
+94	-lla	P1		LIM	-
+95-96	runata	P1		_	-
+95	runa	P1	person	NOUN	-
+96	-ta	P1		OBJ	12)
+					
+97-99	maychawtaa	P1		_	-
+97	may	P1	where	WH	-
+98	-chaw	P1		LOC	-
+99	-taa	P1		DETVAR	-
+100-101	kan	P1		_	-
+100	ka	P1		COP	-
+101	-n	P1		3	-
+102	hampi	P1	medicine	NOUN	(4)
+					
+103-106	hampikuqmi	P1		_	-
+103	hampi	P1	heal	VERB	-
+104	-ku	P1		MID	-
+105	-q	P1		AG	-
+106	-mi	P1		ASS	-
+107-109	shamurquu	P1		_	-
+107	shamu	P1	come	VERB	-
+108	-rqu	P1		PST	-
+109	-u	P1		1	
+					
+110-113	nirnin	P1		_	-
+110	ni	P1	say	VERB	-
+111	-r	P1		SUBID	-
+112	-ni	P1		FON	-
+113	-n	P1		3	-
+					
+114-115	tsayshi	P1		_	-
+114	tsay	P1		DEM.DIST	-
+115	-shi	P1		REP	-
+116	tsay	P1		DEM.DIST	(12
+117-118	qiwshulla	P1		_	-
+117	qiwshu	P1	squinty	ADJ	-
+118	-lla	P1		DIM	-
+119	runa	P1	person	NOUN	12)
+120-121	ninaa	P1		_	-
+120	ni	P1	say	VERB	-
+121	-naa	P1		PST.REP	-
+					
+122-125	cuidanaapaa	P1		_	-
+122	cuida	P1	care.for	VERB	-
+123	-na	P1		NMLZ	-
+124	-a	P1		1	-
+125	-paa	P1		BEN	-
+126-129	almaykitaraa	P1		_	(14
+126	alma	P1	soul	NOUN	-
+127	-yki	P1		2	-
+128	-ta	P1		OBJ	-
+129	-raa	P1		CONT	14)
+130	o	P1	or	CONJ	-
+131-135	hupayniykitaraa	P1		_	(14
+131	hupay	P1	spirit	NOUN	-
+132	-ni	P1		FON	-
+133	-yki	P1		2	-
+134	-ta	P1		OBJ	-
+135	-raa	P1		CONT	14)
+136-138	garamaay	P1		_	-
+136	gara	P1	give	VERB	-
+137	-maa	P1		1.OBJ	-
+138	-y	P1		INF	-
+					
+139-140	ninaa	P1		_	-
+139	ni	P1	say	VERB	-
+140	-naa	P1		PST.REP	-
+					
+141-142	tsayshi	P1		_	-
+141	tsay	P1		DEM.DIST	-
+142	-shi	P1		REP	-
+143	tsay	P1		DEM.DIST	(3
+144	runa	P1	person	NOUN	-
+145	hampikuq	P1	healer	NOUN	3)
+146-149	aywarnin	P1		_	-
+146	aywa	P1	go	VERB	-
+147	-r	P1		SUBID	-
+148	-ni	P1		FON	-
+149	-n	P1		3	-
+					
+150-151	ninaa	P1		_	-
+150	ni	P1	say	VERB	-
+151	-naa	P1		PST.REP	-
+					
+152-153	manam	P1		_	-
+152	mana	P1	no	NEG	-
+153	-m	P1		ASS	-
+154-157	hupaynitaqa	P1		_	(14
+154	hupay	P1	soul	NOUN	-
+155	-ni	P1		1	-
+156	-ta	P1		OBJ	-
+157	-qa	P1		TOP	14)
+158-160	quutsu	P1		_	-
+158	qu	P1	give	VERB	-
+159	-u	P1		1	
+160	-tsu	P1		NEG	-
+					
+161-162	ninaa	P1		_	-
+161	ni	P1	say	VERB	-
+162	-naa	P1		PST.REP	-
+163-164	tsayshi	P1		_	-
+163	tsay	P1		DEM.DIST	-
+164	-shi	P1		REP	-
+					
+165	runa	P1	person	NOUN	(3)
+166-167	musyaq	P1		_	-
+166	musya	P1	know	VERB	-
+167	-q	P1		PST.HAB	-
+168-169	kanaa	P1		_	-
+168	ka	P1		COP	-
+169	-naa	P1		PST.REP	-
+170	tsay	P1		DEM.DIST	(3
+171	hampikuq	P1	healer	NOUN	3)
+					
+172-173	moscapa	P1		_	(15|(9
+172	mosca	P1	fly	NOUN	-
+173	-pa	P1		GEN	-
+174-175	chuspipa	P1		_	9)
+174	chuspi	P1	fly	NOUN	(9
+175	-pa	P1		GEN	9)
+176-180	hupayninkunata	P1		_	-
+176	hupay	P1	soul	NOUN	-
+177	-n	P1		FON	-
+178	-in	P1		3	-
+179	-kuna	P1		PL	-
+180	-ta	P1		OBJ	-
+181-183	cincopata	P1		_	-
+181	cinco	P1	cinco	NUM	-
+182	-pa	P1		GEN	-
+183	-ta	P1		OBJ	15)
+184-185	qunaa	P1		_	-
+184	qu	P1	give	VERB	-
+185	-naa	P1		PST.REP	-
+					
+186-187	tsayshi	P1		_	-
+186	tsay	P1		DEM.DIST	-
+187	-shi	P1		REP	-
+188	tsay	P1		DEM.DIST	(12
+189	runa	P1	person	NOUN	-
+190-191	qiwshulla	P1		_	-
+190	qiwshu	P1	squinty	ADJ	-
+191	-lla	P1		LIM	12)
+192-193	willanaa	P1		_	-
+192	willa	P1	tell	VERB	-
+193	-naa	P1		PST.REP	-
+					
+194-195	maychaw	P1		_	-
+194	may	P1	where	WH	-
+195	-chaw	P1		LOC	-
+196	hampi	P1	medicine	NOUN	(4)
+197-201	kanqantasi	P1		_	-
+197	ka	P1		COP	-
+198	-nqa	P1		NMLZ	-
+199	-n	P1		3	-
+200	-ta	P1		OBJ	-
+201	-si	P1		ADD	-
+					
+202-203	tsayshi	P1		_	-
+202	tsay	P1		DEM.DIST	-
+203	-shi	P1		REP	-
+204	tsay	P1		DEM.DIST	(3
+205	hampikuq	P1	healer	NOUN	-
+206	runa	P1	person	NOUN	3)
+207-208	aywanaa	P1		_	-
+207	aywa	P1	go	VERB	-
+208	-naa	P1		PST.REP	-
+209-210	willanaa	P1		_	-
+209	willa	P1	tell	VERB	-
+210	-naa	P1		PST.REP	-
+211-213	willanqan	P1		_	-
+211	willa	P1	tell	VERB	-
+212	-nqa	P1		NMLZ	-
+213	-n	P1		3	-
+214-215	sitiuman	P1		_	(16
+214	sitiu	P1	place	NOUN	-
+215	-man	P1		DEST	16)
+					
+216-217	tsayshi	P1		_	-
+216	tsay	P1		DEM.DIST	-
+217	-shi	P1		REP	-
+218	tsay	P1		DEM.DIST	(3
+219	hampikuq	P1	healer	NOUN	-
+220	runa	P1	man	NOUN	3)
+221-222	chaanaa	P1		_	-
+221	chaa	P1	arrive	VERB	-
+222	-naa	P1		PST.REP	-
+223-224	hirkaman	P1		_	(18
+223	hirka	P1	hill	NOUN	-
+224	-man	P1		DEST	18)
+225	tsay	P1		DEM.DIST	(4
+226-228	hampikunaman	P1		_	-
+226	hampi	P1	medicine	NOUN	-
+227	-kuna	P1		PL	-
+228	-man	P1		DEST	4)
+229	rasllayllapaa	P1	quickly	ADV	-
+					
+230-231	tsayshi	P1		_	-
+230	tsay	P1		DEM.DIST	-
+231	-shi	P1		REP	-
+232-236	chaaskirnin	P1		_	-
+232	chaa	P1	arrive	VERB	-
+233	-ski	P1		ITER	-
+234	-r	P1		SUBID	-
+235	-ni	P1		FON	-
+236	-n	P1		3	-
+237-239	asikunaa	P1		_	-
+237	asi	P1	laugh	VERB	-
+238	-ku	P1		MID	-
+239	-naa	P1		PST.REP	-
+240	runa	P1	person	NOUN	-
+241	tsay	P1		DEM.DIST	(4
+242-244	hampikunata	P1		_	-
+242	hampi	P1	medicine	NOUN	-
+243	-kuna	P1		PL	-
+244	-ta	P1		OBJ	4)
+245-249	tariskirnin	P1		_	-
+245	tari	P1	find	VERB	-
+246	-ski	P1		ITER	-
+247	-r	P1		SUBID	-
+248	-ni	P1		FON	-
+249	-n	P1		3	-
+					
+250	y	P2	and	CONJ	-
+251	tsay	P2		DEM.DIST	(9
+252-253	moscata	P2		_	-
+252	mosca	P2	fly	NOUN	-
+253	-ta	P2		OBJ	9)
+254-259	mikuskirninqa	P2		_	-
+254	miku	P2	eat	VERB	-
+255	-ski	P2		ITER	-
+256	-r	P2		SUBID	-
+257	-ni	P2		FON	-
+258	-n	P2		3	-
+259	-qa	P2		TOP	-
+260-261	imanawtaa	P2		_	-
+260	imanaw	P2	how	WH	-
+261	-taa	P2		CONTR	-
+262-266	sientekurqanqa	P2		_	-
+262	siente	P2	feel	VERB	-
+263	-ku	P2		MID	-
+264	-rqa	P2		PST	-
+265	-n	P2		3	-
+266	-qa	P2		TOP	-
+					
+267-268	manash	P1		_	-
+267	mana	P1	no	NEG	-
+268	-sh	P1		REP	-
+269-270	imanawsi	P1		_	-
+269	imanaw	P1	how	WH	-
+270	-si	P1		ADD	-
+271-274	sentikunaatsu	P1		_	-
+271	senti	P1	feel	VERB	-
+272	-ku	P1		MID	-
+273	-naa	P1		PST.REP	-
+274	-tsu	P1		NEG	-
+					
+275-277	mallaqaaywan	P1		_	-
+275	mallaqaa	P1	be.hungry	VERB	-
+276	-y	P1		INF	-
+277	-wan	P1		INSO	-
+278-280	mikuskinaa	P1		_	-
+278	miku	P1	eat	VERB	-
+279	-ski	P1		ITER	-
+280	-naa	P1		PST.REP	-
+281	chipya	P1	all	QUANT	-
+					
+282	ay	P2	ay	DISCRS	-
+283	y	P2	and	CONJ	-
+					
+284	y	P2	and	CONJ	-
+285	tsay	P2		DEM.DIST	(4
+286-287	hampita	P2		_	-
+286	hampi	P2	medicine	NOUN	-
+287	-ta	P2		OBJ	4)
+288-293	tariskirninqa	P2		_	-
+288	tari	P2	find	VERB	-
+289	-ski	P2		ITER	-
+290	-r	P2		SUBID	-
+291	-ni	P2		FON	-
+292	-n	P2		3	-
+293	-qa	P2		TOP	-
+					
+294	y	P2	and	CONJ	-
+295-300	kutikamunaakush	P2		_	-
+295	kuti	P2	return	VERB	-
+296	-ka	P2		MID	-
+297	-mu	P2		CIS	-
+298	-naa	P2		PST.REP	-
+299	-ku	P2		Q	-
+300	-sh	P2		REP	-
+					
+301	y	P2	and	CONJ	-
+302-303	imanawshi	P2		_	-
+302	imanaw	P2	how	WH	-
+303	-shi	P2		REP	-
+304-306	kanraa	P2		_	-
+304	ka	P2		COP	-
+305	-n	P2		3	-
+306	-raa	P2		CONT	-
+					
+307-308	manash	P1		_	-
+307	mana	P1	no	NEG	-
+308	-sh	P1		REP	-
+309-314	asikurninshi	P1		_	-
+309	asi	P1	laugh	VERB	-
+310	-ku	P1		MID	-
+311	-r	P1		SUBID	-
+312	-ni	P1		FON	-
+313	-n	P1		3	-
+314	-shi	P1		REP	-
+					
+315-317	kakunaa	P1		_	-
+315	ka	P1		COP	-
+316	-ku	P1		MID	-
+317	-naa	P1		PST.REP	-
+318-322	tarikurnin	P1		_	-
+318	tari	P1	find	VERB	-
+319	-ku	P1		MID	-
+320	-r	P1		SUBID	-
+321	-ni	P1		FON	-
+322	-n	P1		3	-
+					
+323-328	tarikurninqa	P2		_	-
+323	tari	P2	find	VERB	-
+324	-ku	P2		MID	-
+325	-r	P2		SUBID	-
+326	-ni	P2		FON	-
+327	-n	P2		3	-
+328	-qa	P2		TOP	-
+329-331	tsayllachaw	P2		_	-
+329	tsay	P2		DEM.DIST	-
+330	-lla	P2		LIM	-
+331	-chaw	P2		LOC	-
+332-334	kakunaa	P2		_	-
+332	ka	P2		COP	-
+333	-ku	P2		MID	-
+334	-naa	P2		PST.REP	-
+					
+335-336	awshi	P1		_	-
+335	aw	P1	yes	DISCRS	-
+336	-shi	P1		REP	-
+					
+337	y	P2	and	CONJ	-
+338	tsay	P2		DEM.DIST	-
+339	tsay	P2		DEM.DIST	(12
+340	hukqa	P2	other	ADJ	-
+341	runa	P2	person	NOUN	12)
+342	tsay	P2		DEM.DIST	(14
+343-345	almanta	P2		_	-
+343	alma	P2	soul	NOUN	-
+344	-n	P2		3	-
+345	-ta	P2		OBJ	14)
+346-348	nanta	P2		_	-
+346	na	P2		PSSP	-
+347	-n	P2		3	-
+348	-ta	P2		OBJ	-
+349-352	hupayninta	P2		_	(14
+349	hupay	P2	spirit	NOUN	-
+350	-ni	P2		FON	-
+351	-n	P2		3	-
+352	-ta	P2		OBJ	14)
+353	o	P2	or	CONJ	-
+354-356	almanta	P2		_	(14
+354	alma	P2	soul	NOUN	-
+355	-n	P2		3	-
+356	-ta	P2		OBJ	14)
+357-359	qichuiyta	P2		_	-
+357	qichui	P2	take.away	VERB	-
+358	-y	P2		INF	-
+359	-ta	P2		OBJ	-
+360-361	munaq	P2		_	-
+360	muna	P2	want	VERB	-
+361	-q	P2		AG	-
+362-363	kanaa	P2		_	-
+362	ka	P2		COP	-
+363	-naa	P2		PST.REP	-
+					
+364	y	P2	and	CONJ	-
+365-367	imanawpataa	P2		_	-
+365	imanaw	P2	how	WH	-
+366	-pa	P2		GEN	-
+367	-taa	P2		DETVAR	-
+					
+368	y	P2	and	CONJ	-
+369	tsay	P2		DEM.DIST	(9
+370-371	cincontin	P2		_	-
+370	cinco	P2	five	NUM	-
+371	-ntin	P2		INTEG	-
+372-374	chuspitaqa	P2		_	-
+372	chuspi	P2	fly	NOUN	-
+373	-ta	P2		OBJ	-
+374	-qa	P2		TOP	9)
+375-378	aptatsiraan	P2		_	-
+375	apta	P2	grab	VERB	-
+376	-tsi	P2		CAUS	-
+377	-raa	P2		PST	-
+378	-n	P2		3	-
+379	tsay	P2		DEM.DIST	(3
+380-381	runaqa	P2		_	-
+380	runa	P2	person	NOUN	-
+381	-qa	P2		TOP	3)
+382	hampi	P2	medicine	NOUN	(3|(4)
+383-384	ashiq	P2		_	-
+383	ashi	P2	search	VERB	-
+384	-q	P2		AG	-
+385-386	runaqa	P2		_	-
+385	runa	P2	person	NOUN	-
+386	-qa	P2		TOP	3)
+					
+387	mallaq	P1	hunger	NOUN	(21
+388	total	P1	total	ADJ	21)
+389-390	kanaa	P1		_	-
+389	ka	P1		COP	-
+390	-naa	P1		PST.REP	-
+391	hampi	P1	medicine	NOUN	(3|(4)
+392-393	ashiq	P1		_	-
+392	ashi	P1	search	VERB	-
+393	-q	P1		AG	-
+394	runa	P1	person	NOUN	3)
+395-396	tsayshi	P1		_	-
+395	tsay	P1		DEM.DIST	-
+396	-shi	P1		REP	-
+					
+397-400	hupayninta	P1		_	(14
+397	hupay	P1	soul	NOUN	-
+398	-ni	P1		FON	-
+399	-n	P1		3	-
+400	-ta	P1		OBJ	14)
+401	mana	P1	no	NEG	-
+402-404	paypata	P1		_	-
+402	pay	P1		3	-
+403	-pa	P1		GEN	-
+404	-ta	P1		OBJ	-
+405-408	wanaraaykur	P1		_	-
+405	wana	P1	need	VERB	-
+406	-raa	P1		ITER	-
+407	-yku	P1		DIR	-
+408	-r	P1		SUBID	-
+					
+409-411	chuspikunapa	P1		_	(15|(9
+409	chuspi	P1	fly	NOUN	-
+410	-kuna	P1		PL	-
+411	-pa	P1		GEN	9)
+412-415	hupayninta	P1		_	-
+412	hupay	P1	soul	NOUN	-
+413	-ni	P1		FON	-
+414	-n	P1		3	-
+415	-ta	P1		OBJ	-
+416-419	cincoqpata	P1		_	-
+416	cinco	P1	five	NUM	-
+417	-q	P1		AG	-
+418	-pa	P1		GEN	-
+419	-ta	P1		OBJ	-
+420-421	qunaa	P1		_	15)
+420	qu	P1	give	VERB	-
+421	-naa	P1		PST.REP	-
+422	tsay	P1		DEM.DIST	(3
+423	runa	P1	man	NOUN	3)
+424-425	giwshulla	P1		_	(12
+424	giwshu	P1	squinty	ADJ	-
+425	-lla	P1		LIM	-
+426-427	runata	P1		_	-
+426	runa	P1	man	NOUN	-
+427	-ta	P1		OBJ	12)
+428-429	hirkachaw	P1		_	(18
+428	hirka	P1	hill	NOUN	-
+429	-chaw	P1		LOC	18)
+430-434	tarikurnin	P1		_	-
+430	tari	P1	find	VERB	-
+431	-ku	P1		MID	-
+432	-r	P1		SUBID	-
+433	-ni	P1		FON	-
+434	-n	P1		3	-
+					
+435-436	tsayshi	P1		_	-
+435	tsay	P1		DEM.DIST	-
+436	-shi	P1		REP	-
+437	tsay	P1		DEM.DIST	(12
+438-439	qiwshulla	P1		_	-
+438	qiwshu	P1	squinty	ADJ	-
+439	-lla	P1		LIM	-
+440	runa	P1	person	NOUN	12)
+441-442	kushisha	P1		_	-
+441	kushi	P1	happy	ADJ	-
+442	-sha	P1		PRTCP	-
+443-445	quedakunaa	P1		_	-
+443	queda	P1	stay	VERB	-
+444	-ku	P1		MID	-
+445	-naa	P1		PST.REP	-
+446-447	tsaypa	P1		_	(15
+446	tsay	P1		DEM.DIST	-
+447	-pa	P1		GEN	-
+448-452	hupayninkunawan	P1		_	-
+448	hupay	P1	soul	NOUN	-
+449	-ni	P1		FON	-
+450	-n	P1		3	-
+451	-kuna	P1		PL	-
+452	-wan	P1		INS	15)

@@ -1,0 +1,272 @@
+index	quechua	speaker	stem_gloss	tag	coref
+1	huk	P2	one	NUM	(2
+2-3	diyashi	P2		_	-
+2	diya	P2	day	NOUN	-
+3	-shi	P2		REP	2)
+4	ishkay	P2	two	NUM	(27
+5-7	akakakunaqa	P2		_	-
+5	akaka	P2	woodpecker	NOUN	-
+6	-kuna	P2		PL	-
+7	-qa	P2		TOP	27)
+8-9	eukaliptuchaw	P2		_	(29
+8	eukaliptu	P2	eucalyptus	NOUN	-
+9	-chaw	P2		LOC	29)
+10-12	taayaanaa	P2		_	-
+10	taa	P2	live	VERB	-
+11	-yaa	P2		PL	-
+12	-naa	P2		PST.REP	-
+13	eukaliptu	P2	eucalyptus	NOUN	(29)
+14-16	hawanchaw	P2		_	-
+14	hawa	P2	below	PREP	-
+15	-n	P2		3	-
+16	-chaw	P2		LOC	-
+					
+17	y	P2	and	CONJ	-
+18-20	tsaypitashi	P2		_	-
+18	tsay	P2		DEM.DIST	-
+19	-pita	P2		ABL	-
+20	-shi	P2		REP	-
+21	ishkan	P2	two	NUM	(27
+22-23	akakakuna	P2		_	-
+22	akaka	P2	woodpecker	NOUN	-
+23	-kuna	P2		PL	27)
+24	huk	P2	one	NUM	(32|(33|(34
+25-26	runapa	P2		_	-
+25	runa	P2	person	NOUN	-
+26	-pa	P2		GEN	34)
+27-29	wamranpa	P2		_	-
+27	wamra	P2	son	NOUN	-
+28	-n	P2		3	-
+29	-pa	P2		GEN	33)
+30-32	uushanta	P2		_	-
+30	uusha	P2	sheep	NOUN	-
+31	-n	P2		3	-
+32	-ta	P2		OBJ	32)
+33-35	mikuyaanaa	P2		_	-
+33	miku	P2	eat	VERB	-
+34	-yaa	P2		PL	-
+35	-naa	P2		PST.REP	-
+					
+36	y	P2	and	CONJ	-
+37-40	tsaypitanashi	P2		_	-
+37	tsay	P2		DEM.DIST	-
+38	-pita	P2		ABL	-
+39	-na	P2		DISC	-
+40	-shi	P2		REP	-
+41	tsay	P2		DEM.DIST	(34
+42	runa	P2	person	NOUN	34)
+43	tsay	P2		DEM.DIST	(34
+44	runa	P2	person	NOUN	34)
+45-47	uushayuqpa	P2		_	(34|(33|(32
+45	uusha	P2	sheep	NOUN	-
+46	-yuq	P2		POSS	-
+47	-pa	P2		GEN	32)
+48-50	dueñunpa	P2		_	-
+48	dueñu	P2	owner	NOUN	-
+49	-n	P2		3	-
+50	-pa	P2		GEN	33)
+51-53	papaanin	P2		_	-
+51	papaa	P2	father	NOUN	-
+52	-ni	P2		FON	-
+53	-n	P2		3	34)
+54-55	aywanaa	P2		_	-
+54	aywa	P2	go	VERB	-
+55	-naa	P2		PST.REP	-
+56-58	qishyanar	P2		_	-
+56	qishya	P2	be.sick	VERB	-
+57	-na	P2		DISC	-
+58	-r	P2		SUBID	-
+59-61	hampikuq	P2		_	-
+59	hampi	P2	heal	VERB	-
+60	-ku	P2		MID	-
+61	-q	P2		AG	-
+					
+62-63	tsaypita	P2		_	-
+62	tsay	P2		DEM.DIST	-
+63	-pita	P2		ABL	-
+64-65	rikaashqa	P2		_	-
+64	rikaa	P2	see	VERB	-
+65	-shqa	P2		PST	-
+66-67	akakakuna	P2		_	(27
+66	akaka	P2	woodpecker	NOUN	-
+67	-kuna	P2		PL	27)
+					
+68-70	akakakunawan	P2		_	(27
+68	akaka	P2	woodpecker	NOUN	-
+69	-kuna	P2		PL	-
+70	-wan	P2		INS	27)
+71-73	tinkuyaash	P2		_	-
+71	tinku	P2	find	VERB	-
+72	-yaa	P2		PL	-
+73	-sh	P2		PST	-
+					
+74	y	P2	and	CONJ	-
+75-76	tsaypita	P2		_	-
+75	tsay	P2		DEM.DIST	-
+76	-pita	P2		ABL	-
+77-78	akakakuna	P2		_	(27
+77	akaka	P2	woodpecker	NOUN	-
+78	-kuna	P2		PL	27)
+79-82	parlapayaash	P2		_	-
+79	parla	P2	speak	VERB	-
+80	-pa	P2		ITER	-
+81	-yaa	P2		PL	-
+82	-sh	P2		PST	-
+83-85	niyaash	P2		_	-
+83	ni	P2	say	VERB	-
+84	-yaa	P2		PL	-
+85	-sh	P2		PST	-
+					
+86-88	maypataa	P2		_	-
+86	may	P2	where	WH	-
+87	-pa	P2		GEN	-
+88	-taa	P2		DETVAR	-
+89-91	aywaykaanki	P2		_	-
+89	aywa	P2	go	VERB	-
+90	-ykaa	P2		PROG	-
+91	-nki	P2		2	-
+					
+92	y	P2	and	CONJ	-
+93-95	tsaypitana	P2		_	-
+93	tsay	P2		DEM.DIST	-
+94	-pita	P2		ABL	-
+95	-na	P2		DISC	-
+96	runa	P2	person	NOUN	(34)
+97	e	P2	uh	DISCRS	-
+98-99	runaqa	P2		_	(34
+98	runa	P2	person	NOUN	-
+99	-qa	P2		TOP	34)
+100-102	kutitsishqa	P2		_	-
+100	kuti	P2	return	VERB	-
+101	-tsi	P2		CAUS	-
+102	-shqa	P2		PST	-
+103-105	palabranta	P2		_	-
+103	palabra	P2	word	NOUN	-
+104	-n	P2		3	-
+105	-ta	P2		OBJ	-
+					
+106-109	hampikuqmi	P2		_	-
+106	hampi	P2	heal	VERB	-
+107	-ku	P2		MID	-
+108	-q	P2		AG	-
+109	-mi	P2		ASS	-
+110-112	aywaykaa	P2		_	-
+110	aywa	P2	go	VERB	-
+111	-yka	P2		PROG	-
+112	-a	P2		1	
+					
+113-114	akakakuna	P2		_	(27
+113	akaka	P2	woodpecker	NOUN	-
+114	-kuna	P2		PL	27)
+115-117	niyaashqa	P2		_	-
+115	ni	P2	say	VERB	-
+116	-yaa	P2		PL	-
+117	-shqa	P2		PST	-
+					
+118	este	P2	uhm	DISCRS	-
+					
+119-121	imaqnataa	P2		_	-
+119	imaq	P2	why	WH	-
+120	-na	P2		DISC	-
+121	-taa	P2		DETVAR	-
+122-123	aywanki	P2		_	-
+122	aywa	P2	go	VERB	-
+123	-nki	P2		2	-
+					
+124-125	qamqa	P2		_	(34
+124	qam	P2	you	PRON	-
+125	-qa	P2		TOP	34)
+126-129	wanushnacha	P2		_	-
+126	wanu	P2	die	VERB	-
+127	-sh	P2		PRTCP	-
+128	-na	P2		DISC	-
+129	-cha	P2		ASS	-
+130-132	kaykaanki	P2		_	-
+130	ka	P2		COP	-
+131	-ykaa	P2		PROG	-
+132	-nki	P2		2	-
+					
+133	y	P2	and	CONJ	-
+134-137	nikurshi	P2		_	-
+134	ni	P2	say	VERB	-
+135	-ku	P2		MID	-
+136	-r	P2		SUBID	-
+137	-shi	P2		REP	-
+					
+138-139	ninaa	P2		_	-
+138	ni	P2	say	VERB	-
+139	-naa	P2		PST.REP	-
+					
+140	runa	P2	person	NOUN	(34)
+141	este	P2	that	DEM.DIST	(34
+142	runa	P2	person	NOUN	34)
+143-145	wamraapa	P2		_	(32|(33
+143	wamra	P2	child	NOUN	-
+144	-a	P2		1	
+145	-pa	P2		GEN	33)
+146-149	uushantashi	P2		_	-
+146	uusha	P2	sheep	NOUN	-
+147	-n	P2		3	-
+148	-ta	P2		OBJ	-
+149	-shi	P2		REP	32)
+150	este	P2	uhm	DISCRS	-
+151-153	mikuyaan	P2		_	-
+151	miku	P2	eat	VERB	-
+152	-yaa	P2		PL	-
+153	-n	P2		3	-
+					
+154-156	uqrakan	P2		_	-
+154	uqra	P2	lose	VERB	-
+155	-ka	P2		MID	-
+156	-n	P2		3	-
+157-159	uqrakan	P2		_	-
+157	uqra	P2	lose	VERB	-
+158	-ka	P2		MID	-
+159	-n	P2		3	-
+					
+160	y	P2	and	CONJ	-
+161-163	mikuyaan	P2		_	-
+161	miku	P2	eat	VERB	-
+162	-yaa	P2		PL	-
+163	-n	P2		3	-
+164-165	runakuna	P2		_	(36
+164	runa	P2	person	NOUN	-
+165	-kuna	P2		PL	36)
+					
+166	y	P2	and	CONJ	-
+167-168	ishkan	P2		_	(27
+167	ishka	P2	two	NUM	-
+168	-n	P2		3	-
+169-170	akakakuna	P2		_	-
+169	akaka	P2	woodpecker	NOUN	-
+170	-kuna	P2		PL	27)
+171-175	rikaanakuskiyaar	P2		_	-
+171	rikaa	P2	see	VERB	-
+172	-naku	P2		RECP	-
+173	-ski	P2		ITER	-
+174	-yaa	P2		PL	-
+175	-r	P2		SUBID	-
+					
+176-177	umata	P2		_	(35
+176	uma	P2	head	NOUN	-
+177	-ta	P2		OBJ	35)
+178-182	tapsipayanakuyaan	P2		_	-
+178	tapsi	P2	shake	VERB	-
+179	-paya	P2		ITER	-
+180	-naku	P2		RECP	-
+181	-yaa	P2		PL	-
+182	-n	P2		3	-
+					
+183-184	alliku	P2		_	-
+183	alli	P2	good	ADJ	-
+184	-ku	P2		Q	-
+					
+185-187	alliraacha	P1		_	-
+185	alli	P1	good	ADJ	-
+186	-raa	P1		CONT	-
+187	-cha	P1		ASS	-
+					
+188-190	alliraachi	P2		_	-
+188	alli	P2	good	ADJ	-
+189	-raa	P2		CONT	-
+190	-chi	P2		CONJ	-

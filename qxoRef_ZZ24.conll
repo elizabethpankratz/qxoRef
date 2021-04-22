@@ -1,0 +1,251 @@
+index	quechua	speaker	stem_gloss	tag	coref
+1-2	unayshi	P2		_	-
+1	unay	P2	long.ago	ADV	-
+2	-shi	P2		REP	-
+3	hampikuq	P2	healer	NOUN	(3
+4	runa	P2	person	NOUN	3)
+5	allaapa	P2	much	ADV	-
+6-7	yachanaa	P2		_	-
+6	yacha	P2	know	VERB	-
+7	-naa	P2		PST.REP	-
+8-9	tsayshi	P2		_	-
+8	tsay	P2		DEM.DIST	-
+9	-shi	P2		REP	-
+10	hampi	P2	medicine	NOUN	(4)
+11-12	ashiq	P2		_	-
+11	ashi	P2	search	VERB	-
+12	-q	P2		AG	-
+13-14	aywanaa	P2		_	-
+13	aywa	P2	go	VERB	-
+14	-naa	P2		PST.REP	-
+					
+15-19	aywaykaanqanchaw	P2		_	-
+15	aywa	P2	go	VERB	-
+16	-ykaa	P2		PROG	-
+17	-nqa	P2		NMLZ	-
+18	-n	P2		3	-
+19	-chaw	P2		LOC	-
+20-24	tsakapakuskinaa	P2		_	-
+20	tsaka	P2	get.dark	VERB	-
+21	-pa	P2		ITER	-
+22	-ku	P2		MID	-
+23	-ski	P2		ITER	-
+24	-naa	P2		PST.REP	-
+					
+25-26	tsayqa	P2		_	(3
+25	tsay	P2		DEM.DIST	-
+26	-qa	P2		TOP	3)
+27-28	mallaqaay	P2		_	-
+27	mallaqaa	P2	be.hungry	VERB	-
+28	-y	P2		INF	-
+29-31	tsariskinaa	P2		_	-
+29	tsari	P2	grab	VERB	-
+30	-ski	P2		ITER	-
+31	-naa	P2		PST.REP	-
+32-33	apanaa	P2		_	-
+32	apa	P2	bring	VERB	-
+33	-naa	P2		PST.REP	-
+34-36	chuqllutawan	P2		_	(7
+34	chuqllu	P2	corn	NOUN	-
+35	-ta	P2		OBJ	-
+36	-wan	P2		INST	7)
+37-38	aytsata	P2		_	(8
+37	aytsa	P2	meat	NOUN	-
+38	-ta	P2		OBJ	8)
+					
+39	y	P2	and	CONJ	-
+40-43	faltanaallaraa	P2		_	-
+40	falta	P2	missing	VERB	-
+41	-naa	P2		PST.REP	-
+42	-lla	P2		LIM	-
+43	-raa	P2		CONT	-
+44-45	pachan	P2		_	(24
+44	pacha	P2	stomach	NOUN	-
+45	-n	P2		3	24)
+46-48	llenanan	P2		_	-
+46	llena	P2	fill	VERB	-
+47	-na	P2		NMLZ	-
+48	-n	P2		3	-
+49-51	tsariskir	P2		_	-
+49	tsari	P2	catch	VERB	-
+50	-ski	P2		ITER	-
+51	-r	P2		SUBID	-
+52	huqta	P1	six	NUM	(9
+53-54	chuspita	P1		_	-
+53	chuspi	P1	fly	NOUN	-
+54	-ta	P1		OBJ	9)
+					
+55	huqta	P2	six	NUM	(9
+56-57	chuspita	P2		_	-
+56	chuspi	P2	fly	NOUN	-
+57	-ta	P2		OBJ	9)
+58-60	tsariskir	P2		_	-
+58	tsari	P2	catch	VERB	-
+59	-ski	P2		ITER	-
+60	-r	P2		SUBID	-
+61-63	uchuskinaa	P2		_	-
+61	uchu	P2	eat	VERB	-
+62	-ski	P2		ITER	-
+63	-naa	P2		PST.REP	-
+					
+64	y	P2	and	CONJ	-
+65-67	puñukunaa	P2		_	-
+65	puñu	P2	sleep	VERB	-
+66	-ku	P2		MID	-
+67	-naa	P2		PST.REP	-
+					
+68	patsa	P2	time	NOUN	-
+69-73	waraskiptinqa	P2		_	-
+69	wara	P2	dawn	VERB	-
+70	-ski	P2		ITER	-
+71	-pti	P2		SUBDIFF	-
+72	-n	P2		3	-
+73	-qa	P2		TOP	-
+74-75	aywashaa	P2		_	-
+74	aywa	P2	go	VERB	-
+75	-shaa	P2		PRTCP	-
+76	yapay	P2	again	ADV	-
+77	hampi	P2	medicine	NOUN	(4)
+78	hacha	P2	plant	NOUN	(4
+79	hampi	P2	medicine	NOUN	4)
+80-81	ashiq	P2		_	-
+80	ashi	P2	search	VERB	-
+81	-q	P2		AG	-
+					
+82-83	tsaychaw	P2		_	-
+82	tsay	P2		DEM.DIST	-
+83	-chaw	P2		LOC	-
+84-86	tinkuskin	P2		_	-
+84	tinku	P2	find	VERB	-
+85	-ski	P2		ITER	-
+86	-n	P2		3	-
+87	huk	P2	one	NUM	(12
+88	runa	P2	person	NOUN	-
+89	ushqu	P2	blue	ADJ	-
+90-91	ñawiwan	P2		_	-
+90	ñawi	P2	eye	NOUN	-
+91	-wan	P2		INST	12)
+92	chuchwa	P2	agave	NOUN	(13)
+93-95	hananchaw	P2		_	-
+93	hana	P2	above	PREP	-
+94	-n	P2		3	-
+95	-chaw	P2		LOC	-
+96-99	taaykaaqwan	P2		_	-
+96	taa	P2	sit	VERB	-
+97	-ykaa	P2		PROG	-
+98	-q	P2		AG	-
+99	-wan	P2		INST	-
+					
+100-101	tsaypita	P2		_	-
+100	tsay	P2		DEM.DIST	-
+101	-pita	P2		ABL	-
+102-104	tapukushaa	P2		_	-
+102	tapu	P2	ask	VERB	-
+103	-ku	P2		MID	-
+104	-shaa	P2		PRTCP	-
+					
+105-107	maychawtaa	P2		_	-
+105	may	P2	where	WH	-
+106	-chaw	P2		LOC	-
+107	-taa	P2		Q	-
+108-110	tariiman	P2		_	-
+108	tari	P2	find	VERB	-
+109	-i	P2		1	-
+110	-man	P2		IRR	-
+111	hacha	P2	plant	NOUN	(4
+112-113	hampita	P2		_	-
+112	hampi	P2	medicine	NOUN	-
+113	-ta	P2		OBJ	4)
+					
+114-115	nir	P2		_	-
+114	ni	P2	say	VERB	-
+115	-r	P2		SUBID	-
+					
+116-118	tsaypitana	P2		_	-
+116	tsay	P2		DEM.DIST	-
+117	-pita	P2		ABL	-
+118	-na	P2		DISC	-
+119	tsay	P2		DEM.DIST	(12
+120	ushqu	P2	blue	ADJ	-
+121-122	ñawiqa	P2		_	-
+121	ñawi	P2	eye	NOUN	-
+122	-qa	P2		TOP	12)
+123-124	respondishaa	P2		_	-
+123	respondi	P2	respond	VERB	-
+124	-shaa	P2		PRTCP	-
+					
+125-127	almaykita	P2		_	(14
+125	alma	P2	soul	NOUN	-
+126	-yki	P2		2	-
+127	-ta	P2		OBJ	14)
+128-131	qaramaay	P2		_	-
+128	qa	P2	give	VERB	-
+129	-ra	P2		CONT	-
+130	-maa	P2		1.OBJ	-
+131	-y	P2		INF	-
+132	hacha	P2	plant	NOUN	(4
+133-134	hampita	P2		_	-
+133	hampi	P2	heal	VERB	-
+134	-ta	P2		OBJ	4)
+135-138	riqsitsinaapaa	P2		_	-
+135	riqsi	P2	know	VERB	-
+136	-tsi	P2		CAUS	-
+137	-naa	P2		NMLZ	-
+138	-paa	P2		BEN	-
+					
+139-140	tsayqa	P2		_	(15|(9
+139	tsay	P2		DEM.DIST	-
+140	-qa	P2		TOP	-
+141	huqta	P2	six	NUM	-
+142-143	chuspita	P2		_	-
+142	chuspi	P2	fly	NOUN	-
+143	-ta	P2		OBJ	
+144-148	wañutsinqanpa	P2		_	-
+144	wañu	P2	kill	VERB	-
+145	-tsi	P2		CAUS	-
+146	-nqa	P2		NMLZ	-
+147	-n	P2		3	-
+148	-pa	P2		GEN	9)
+149-151	almanta	P2		_	-
+149	alma	P2	soul	NOUN	-
+150	-n	P2		3	-
+151	-ta	P2		OBJ	-
+152-153	qarashaa	P2		_	15)
+152	qara	P2	give	VERB	-
+153	-shaa	P2		PRTCP	-
+					
+154-155	tsayqa	P2		_	(12
+154	tsay	P2		DEM.DIST	-
+155	-qa	P2		TOP	-
+156	ushqu	P2	blue	ADJ	-
+157	ñawi	P2	eye	NOUN	12)
+158-160	riqsitsishaa	P2		_	-
+158	riqsi	P2	know	VERB	-
+159	-tsi	P2		CAUS	-
+160	-shaa	P2		PRTCP	-
+					
+161	y	P2	and	CONJ	-
+162	hampikuq	P2	healer	NOUN	(3
+163-164	runaqa	P2		_	-
+163	runa	P2	person	NOUN	-
+164	-qa	P2		TOP	3)
+165	raslla	P2	quickly	ADV	-
+166-167	chaskiraa	P2		_	-
+166	chaski	P2	accept	VERB	-
+167	-raa	P2		CONT	-
+168	hampi	P2	medicine	NOUN	(4
+169	hacha	P2	plant	NOUN	4)
+170-172	tariskir	P2		_	-
+170	tari	P2	find	VERB	-
+171	-ski	P2		ITER	-
+172	-r	P2		SUBID	-
+					
+173-176	kushikurir	P2		_	-
+173	kushi	P2	happy	ADJ	-
+174	-ku	P2		MID	-
+175	-ri	P2		ITER	-
+176	-r	P2		SUBID	-
+177-179	wañurinaa	P2		_	-
+177	wañu	P2	die	VERB	-
+178	-ri	P2		ITER	-
+179	-naa	P2		PST.REP	-

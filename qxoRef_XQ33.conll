@@ -1,0 +1,240 @@
+index	quechua	speaker	stem_gloss	tag	coref
+1	huk	P1	one	NUM	(2
+2-3	diash	P1		_	-
+2	dia	P1	día	NOUN	-
+3	-sh	P1		REP	2)
+4	ishkay	P1	two	NUM	(27
+5-6	akakakuna	P1		_	-
+5	akaka	P1	woodpecker	NOUN	-
+6	-kuna	P1		PL	27)
+7-9	kayaanaa	P1		_	-
+7	ka	P1		COP	-
+8	-yaa	P1		PL	-
+9	-naa	P1		PST.REP	-
+					
+10	y	P1	and	CONJ	-
+11	tsay	P1		DEM.DIST	(27
+12-14	akakakunaqa	P1		_	-
+12	akaka	P1	woodpecker	NOUN	-
+13	-kuna	P1		PL	-
+14	-qa	P1		TOP	27)
+15-18	kawakuyaanaa	P1		_	-
+15	kawa	P1	live	V	-
+16	-ku	P1		MID	-
+17	-yaa	P1		PL	-
+18	-naa	P1		PST.REP	-
+19	huk	P1	one	NUM	(29
+20	eucaliptu	P1	eucalyptus	NOUN	29)
+21-25	hawallanchawshi	P1		_	-
+21	hawa	P1	below	PREP	-
+22	-lla	P1		LIM	-
+23	-n	P1		3	-
+24	-chaw	P1		LOC	-
+25	-shi	P1		REP	-
+					
+26	tsay	P1		DEM.DIST	(27
+27-29	akakakunaqa	P1		_	-
+27	akaka	P1	woodpecker	NOUN	-
+28	-kuna	P1		PL	-
+29	-qa	P1		TOP	27)
+30-32	tsayllachaw	P1		_	-
+30	tsay	P1		DEM.DIST	-
+31	-lla	P1		LIM	-
+32	-chaw	P1		LOC	-
+33-34	kawar	P1		_	-
+33	kawa	P1	live	VERB	-
+34	-r	P1		SUBID	-
+35	y	P1	and	CONJ	-
+36-38	mikuyaanaa	P1		_	-
+36	miku	P1	eat	VERB	-
+37	-yaa	P1		PL	-
+38	-naa	P1		PST.REP	-
+39	huk	P1	one	NUM	(32|(33|(34
+40-41	runapa	P1		_	-
+40	runa	P1	person	NOUN	-
+41	-pa	P1		GEN	34)
+42-44	tsurinpa	P1		_	-
+42	tsuri	P1	son	NOUN	-
+43	-n	P1		3	-
+44	-pa	P1		GEN	33)
+45-47	uushanta	P1		_	-
+45	uusha	P1	sheep	NOUN	-
+46	-n	P1		3	-
+47	-ta	P1		OBJ	32)
+					
+48	ya	P1		OK	-
+					
+49	tsay	P1		DEM.DIST	(34
+50	huk	P1	one	NUM	34)
+					
+51	tsay	P1		DEM.DIST	(34
+52-53	runaqa	P1		_	-
+52	runa	P1	person	NOUN	-
+53	-qa	P1		TOP	34)
+54-56	paasaykaarqa	P1		_	-
+54	paasa	P1	pass	VERB	-
+55	-ykaa	P1		PROG	-
+56	-rqa	P1		PST	-
+					
+57	este	P1	uhm	DISCRS	-
+					
+58-60	akakakunawan	P1		_	(27
+58	akaka	P1	woodpecker	NOUN	-
+59	-kuna	P1		PL	-
+60	-wan	P1		INST	27)
+61-63	tinkuskirqa	P1		_	-
+61	tinku	P1	find	VERB	-
+62	-ski	P1		ITER	-
+63	-rqa	P1		PST	-
+					
+64-67	tapukurinaa	P1		_	-
+64	tapu	P1	ask	VERB	-
+65	-ku	P1		MID	-
+66	-ri	P1		ITER	-
+67	-naa	P1		PST.REP	-
+					
+68	este	P1	uhm	DISCRS	-
+					
+69-72	qeshyaykaami	P1		_	-
+69	qeshya	P1	be.sick	VERB	-
+70	-yka	P1		PROG	-
+71	-a	P1		1	
+72	-mi	P1		ASS	-
+73	ayllu	P1	probably	DISCRS	-
+74-77	hampikuqmi	P1		_	-
+74	hampi	P1	heal	VERB	-
+75	-ku	P1		MID	-
+76	-q	P1		AG	-
+77	-mi	P1		ASS	-
+78-79	aywashaa	P1		_	-
+78	aywa	P1	go	VERB	-
+79	-shaa	P1		1.FUT	-
+					
+80-82	maychawraa	P1		_	-
+80	may	P1	where	WH	-
+81	-chaw	P1		LOC	-
+82	-raa	P1		CONT	-
+					
+83-85	maychawraa	P1		_	-
+83	may	P1	where	WH	-
+84	-chaw	P1		LOC	-
+85	-raa	P1		CONT	-
+86	hampikuq	P1	healer	NOUN	(3)
+87-89	taaraan	P1		_	-
+87	taa	P1	live	VERB	-
+88	-raa	P1		ITER	-
+89	-n	P1		3	-
+					
+90-91	nir	P1		_	-
+90	ni	P1	say	VERB	-
+91	-r	P1		SUBID	-
+					
+92-93	tsayshi	P1		_	-
+92	tsay	P1		DEM.DIST	-
+93	-shi	P1		REP	-
+94-95	ninaa	P1		_	-
+94	ni	P1	say	VERB	-
+95	-naa	P1		PST.REP	-
+					
+96-97	qamta	P1		_	(34
+96	qam	P1	you	PRON	-
+97	-ta	P1		OBJ	34)
+98-100	imanawnataa	P1		_	-
+98	imanaw	P1	how	WH	-
+99	-na	P1		DISC	-
+100	-taa	P1		DETVAR	-
+101-103	hampiyaashunki	P1		_	-
+101	hampi	P1	heal	VERB	-
+102	-yaa	P1		PL	-
+103	-shunki	P1		3.SBJ>2.OBJ	-
+					
+104	qam	P1	you	PRON	(34)
+105	chipya	P1	totally	ADV	-
+106-109	wanushanacha	P1		_	-
+106	wanu	P1	die	VERB	-
+107	-sha	P1		PTCP	-
+108	-na	P1		DISC	-
+109	-cha	P1		ASS	-
+110-111	kanki	P1		_	-
+110	ka	P1		COP	-
+111	-nki	P1		2	-
+					
+112-113	nir	P1		_	-
+112	ni	P1	say	VERB	-
+113	-r	P1		SUBID	-
+					
+114-118	nirkurnash	P1		_	-
+114	ni	P1	say	VERB	-
+115	-rku	P1		ITER	-
+116	-r	P1		SUBID	-
+117	-na	P1		DISC	-
+118	-sh	P1		REP	-
+					
+119	este	P1	uhm	DISCRS	-
+					
+120-123	tapukurinaa	P1		_	-
+120	tapu	P1	ask	VERB	-
+121	-ku	P1		MID	-
+122	-ri	P1		ITER	-
+123	-naa	P1		PST.REP	-
+					
+124	este	P1	uhm	DISCRS	-
+					
+125-126	uushata	P1		_	(32
+125	uusha	P1	sheep	NOUN	-
+126	-ta	P1		OBJ	32)
+					
+127-130	uushakunatash	P1		_	(32
+127	uusha	P1	sheep	NOUN	-
+128	-kuna	P1		PL	-
+129	-ta	P1		OBJ	-
+130	-sh	P1		REP	32)
+131-133	wamraapa	P1		_	(32|(33
+131	wamra	P1	child	NOUN	-
+132	-a	P1		1	
+133	-pa	P1		GEN	33)
+134-136	uushanta	P1		_	-
+134	uusha	P1	sheep	NOUN	-
+135	-n	P1		3	-
+136	-ta	P1		OBJ	32)
+137-138	mikuy	P1		_	-
+137	miku	P1	eat	VERB	-
+138	-y	P1		INF	-
+139-141	mikuyaan	P1		_	-
+139	miku	P1	eat	VERB	-
+140	-yaa	P1		PL	-
+141	-n	P1		3	-
+					
+142-143	nir	P1		_	-
+142	ni	P1	say	VERB	-
+143	-r	P1		SUBID	-
+					
+144-145	tsayshi	P1		_	-
+144	tsay	P1		DEM.DIST	-
+145	-shi	P1		REP	-
+146-148	akakakunaqa	P1		_	(27
+146	akaka	P1	woodpecker	NOUN	-
+147	-kuna	P1		PL	-
+148	-qa	P1		TOP	27)
+149-152	rikaanakuskir	P1		_	-
+149	rikaa	P1	see	VERB	-
+150	-naku	P1		RECP	-
+151	-ski	P1		ITER	-
+152	-r	P1		SUBID	-
+					
+153-158	asikuriyaanaalla	P1		_	-
+153	asi	P1	laugh	VERB	-
+154	-ku	P1		MID	-
+155	-ri	P1		ITER	-
+156	-yaa	P1		PL	-
+157	-naa	P1		PST.REP	-
+158	-lla	P1		LIM	-
+					
+159-162	tsayllachawmi	P1		_	-
+159	tsay	P1		DEM.DIST	-
+160	-lla	P1		LIM	-
+161	-chaw	P1		LOC	-
+162	-mi	P1		ASS	-
+163-164	ushan	P1		_	-
+163	usha	P1	finish	VERB	-
+164	-n	P1		3	-

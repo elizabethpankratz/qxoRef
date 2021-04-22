@@ -1,0 +1,416 @@
+index	quechua	speaker	stem_gloss	tag	coref
+1	ya	P1	ok	DISCRS	-
+2-3	cuentashayki	P1		_	-
+2	cuenta	P1	tell	VERB	-
+3	-shayki	P1		1.SUB>2.OBJ.FUT	-
+4	huk	P1	one	NUM	(1
+5-6	cuentuta	P1		_	-
+5	cuentu	P1	story	NOUN	-
+6	-ta	P1		OBJ	1)
+7	aw	P1	right	DISCRS	-
+					
+8	aha	P2	ok	DISCRS	-
+9	ari	P2	yes	DISCRS	-
+					
+10-11	unayshi	P1		_	-
+10	unay	P1	long.ago	ADV	-
+11	-shi	P1		REP	-
+12-13	kanaa	P1		_	-
+12	ka	P1		COP	-
+13	-naa	P1		PST.REP	-
+14	huk	P1	one	NUM	(3
+15	hampikuq	P1	healer	NOUN	-
+16	runa	P1	person	NOUN	3)
+17	allaapa	P1	much	ADV	-
+18-19	yachanaa	P1		_	-
+18	yacha	P1	know	VERB	-
+19	-naa	P1		PST.REP	-
+20-23	hampikuyta	P1		_	-
+20	hampi	P1	heal	VERB	-
+21	-ku	P1		MID	-
+22	-y	P1		INF	-
+23	-ta	P1		OBJ	-
+					
+24-25	tsayqa	P1		_	(2
+24	tsay	P1		DEM.DIST	-
+25	-qa	P1		TOP	2)
+26	huk	P1	one	NUM	(2
+27-28	diaqa	P1		_	-
+27	dia	P1	day	NOUN	-
+28	-qa	P1		TOP	2)
+29-30	aywan	P1		_	-
+29	aywa	P1	go	VERB	-
+30	-n	P1		3	-
+31-32	hampiy	P1		_	(4
+31	hampi	P1	heal	VERB	-
+32	-y	P1		INF	4)
+33-34	ashiq	P1		_	-
+33	ashi	P1	search	VERB	-
+34	-q	P1		AG	-
+35-36	karupa	P1		_	-
+35	karu	P1	far	ADJ	-
+36	-pa	P1		GEN	-
+					
+37-39	tsaychawshi	P1		_	-
+37	tsay	P1		DEM.DIST	-
+38	-chaw	P1		LOC	-
+39	-shi	P1		REP	-
+40-41	tsakay	P1		_	-
+40	tsaka	P1	get.dark	VERB	-
+41	-y	P1		INF	-
+					
+42-46	tsakapakuskin	P1		_	-
+42	tsaka	P1	get.dark	VERB	-
+43	-pa	P1		ITER	-
+44	-ku	P1		MID	-
+45	-ski	P1		ITER	-
+46	-n	P1		3	-
+47-48	manaraq	P1		_	-
+47	mana	P1	no	NEG	-
+48	-raq	P1		CONT	-
+49-51	hampiyman	P1		_	(4
+49	hampi	P1	heal	VERB	-
+50	-y	P1		INF	-
+51	-man	P1		DEST	4)
+52-54	chaarnin	P1		_	-
+52	chaa	P1	arrive	VERB	-
+53	-r	P1		SUBID	-
+54	-nin	P1		3	-
+					
+55-56	tsaychaw	P1		_	-
+55	tsay	P1		DEM.DIST	-
+56	-chaw	P1		LOC	-
+57-60	alatsikun	P1		_	-
+57	ala	P1	be.cold	VERB	-
+58	-tsi	P1		CAUS	-
+59	-ku	P1		MID	-
+60	-n	P1		3	-
+61-63	mantsakun	P1		_	-
+61	mantsa	P1	be.afraid	VERB	-
+62	-ku	P1		MID	-
+63	-n	P1		3	-
+64	y	P1	and	CONJ	-
+65-67	tsiktsikunasi	P1		_	(20
+65	tsiktsi	P1	bat	NOUN	-
+66	-kuna	P1		PL	-
+67	-si	P1		ADD	20)
+68-71	yuripuskin	P1		_	-
+68	yuri	P1	appear	VERB	-
+69	-pu	P1		DIR	-
+70	-ski	P1		ITER	-
+71	-n	P1		3	-
+					
+72-77	alatsikuykaptin	P1		_	-
+72	ala	P1	be.cold	VERB	-
+73	-tsi	P1		CAUS	-
+74	-ku	P1		MID	-
+75	-yka	P1		PROG	-
+76	-pti	P1		SUBDIFF	-
+77	-n	P1		3	-
+78-81	mallaqaynin	P1		_	-
+78	mallaqa	P1	be.hungry	VERB	-
+79	-y	P1		INF	-
+80	-ni	P1		FON	-
+81	-n	P1		3	-
+82-84	tsariskin	P1		_	-
+82	tsari	P1	affect	VERB	-
+83	-ski	P1		ITER	-
+84	-n	P1		3	-
+					
+85	tsay	P1		DEM.DIST	-
+86-87	apanaa	P1		_	-
+86	apa	P1	bring	VERB	-
+87	-naa	P1		PST.REP	-
+88-90	chuqllutawan	P1		_	(7
+88	chuqllu	P1	corn	NOUN	-
+89	-ta	P1		OBJ	-
+90	-wan	P1		INST	7)
+91-92	aytsata	P1		_	(8
+91	aytsa	P1	meat	NOUN	-
+92	-ta	P1		OBJ	8)
+					
+93-94	almuersun	P1		_	(6
+93	almuersu	P1	lunch	NOUN	-
+94	-n	P1		3	6)
+95-96		P1		_	-
+95	na	P1		PSSP	-
+96	-n	P1		3	-
+97-99	miriendanta	P1		_	(6
+97	mirienda	P1	snack	NOUN	-
+98	-n	P1		3	-
+99	-ta	P1		OBJ	6)
+					
+100-103	tsaychawnam	P1		_	-
+100	tsay	P1		DEM.DIST	-
+101	-chaw	P1		LOC	-
+102	-na	P1		DISC	-
+103	-m	P1		ASS	-
+104	allaapa	P1	much	ADV	-
+105-109	mallaqaskinllaraa	P1		_	-
+105	mallaqa	P1	be.hungry	VERB	-
+106	-ski	P1		ITER	-
+107	-n	P1		3	-
+108	-lla	P1		LIM	-
+109	-raa	P1		CONT	-
+					
+110	y	P1	and	CONJ	-
+111	hoqta	P1	six	NUM	(9
+112-113	chuspita	P1		_	-
+112	chuspi	P1	fly	NOUN	-
+113	-ta	P1		OBJ	9)
+114-116	tsariskir	P1		_	-
+114	tsari	P1	catch	VERB	-
+115	-ski	P1		ITER	-
+116	-r	P1		SUBID	-
+117-118	mikuski	P1		_	-
+117	miku	P1	eat	VERB	-
+118	-ski	P1		ITER	-
+119-120	pachan	P1		_	(24
+119	pacha	P1	stomach	NOUN	-
+120	-n	P1		3	24)
+121-124	huntananpaq	P1		_	-
+121	hunta	P1	fill	VERB	-
+122	-na	P1		NMLZ	-
+123	-n	P1		3	-
+124	-paq	P1		BEN	-
+					
+125-126	tsaypita	P1		_	-
+125	tsay	P1		DEM.DIST	-
+126	-pita	P1		ABL	-
+127	patsa	P1	time	NOUN	(11)
+128-132	waraskiptinqa	P1		_	-
+128	wara	P1	dawn	VERB	-
+129	-ski	P1		ITER	-
+130	-pti	P1		SUBDIFF	-
+131	-n	P1		3	-
+132	-qa	P1		TOP	-
+133-137	aywaykaanqanchaw	P1		_	-
+133	aywa	P1	go	VERB	-
+134	-ykaa	P1		PROG	-
+135	-nqa	P1		NMLZ	-
+136	-n	P1		3	-
+137	-chaw	P1		LOC	-
+					
+138	huk	P1	one	NUM	(12
+139	runa	P1	person	NOUN	-
+140	oshqu	P1	blue	ADJ	-
+141-142	ñawiwan	P1		_	-
+141	ñawi	P1	eye	NOUN	-
+142	-wan	P1		INST	12)
+143-146	tinkuskiyaan	P1		_	-
+143	tinku	P1	find	VERB	-
+144	-ski	P1		ITER	-
+145	-yaa	P1		PL	-
+146	-n	P1		3	-
+					
+147	y	P1	and	CONJ	-
+148-151	hamaraykaqa	P1		_	-
+148	hama	P1	rest	VERB	-
+149	-ra	P1		CONT	-
+150	-yka	P1		PROG	-
+151	-qa	P1		TOP	-
+152	chuchwa	P1	agave	NOUN	(13)
+153-155	hananchaw	P1		_	-
+153	hana	P1	above	PREP	-
+154	-n	P1		3	-
+155	-chaw	P1		LOC	-
+					
+156-159	tsaypitanash	P1		_	-
+156	tsay	P1		DEM.DIST	-
+157	-pita	P1		ABL	-
+158	-na	P1		DISC	-
+159	-sh	P1		PRTCP	-
+160-162	tapukun	P1		_	-
+160	tapu	P1	ask	VERB	-
+161	-ku	P1		MID	-
+162	-n	P1		3	-
+					
+163-165	maychawtaa	P1		_	-
+163	may	P1	where	WH	-
+164	-chaw	P1		LOC	-
+165	-taa	P1		Q	-
+166-168	tariiman	P1		_	-
+166	tari	P1	find	VERB	-
+167	-i	P1		1	-
+168	-man	P1		IRR	-
+					
+169	hacha	P1	plant	NOUN	(4
+170-171	hampita	P1		_	-
+170	hampi	P1	medicine	NOUN	-
+171	-ta	P1		OBJ	4)
+172-173	hampipa	P1		_	-
+172	hampi	P1	heal	VERB	-
+173	-pa	P1		BEN	-
+					
+174-175	nin	P1		_	-
+174	ni	P1	say	VERB	-
+175	-n	P1		3	-
+					
+176-179	niptinqa	P1		_	-
+176	ni	P1	say	VERB	-
+177	-pti	P1		SUBDIFF	-
+178	-n	P1		3	-
+179	-qa	P1		TOP	-
+180-181	runaqa	P1		_	(12
+180	runa	P1	person	NOUN	-
+181	-qa	P1		TOP	12)
+182-183	nin	P1		_	-
+182	ni	P1	say	VERB	-
+183	-n	P1		3	-
+					
+184-186	naykita	P1		_	-
+184	na	P1		PSSP	-
+185	-yki	P1		2	-
+186	-ta	P1		OBJ	-
+187-189	almaykita	P1		_	(14
+187	alma	P1	soul	NOUN	-
+188	-yki	P1		2	-
+189	-ta	P1		OBJ	14)
+190-193	qaramaay	P1		_	-
+190	qa	P1	give	VERB	-
+191	-ra	P1		CONT	-
+192	-maa	P1		1.OBJ	-
+193	-y	P1		INF	-
+194-196	willashayki	P1		_	-
+194	willa	P1	tell	VERB	-
+195	-sha	P1		1.FUT	-
+196	-yki	P1		2	-
+					
+197-198	nin	P1		_	-
+197	ni	P1	say	VERB	-
+198	-n	P1		3	-
+					
+199-202	niptinqa	P1		_	-
+199	ni	P1	say	VERB	-
+200	-pti	P1		SUBDIFF	-
+201	-n	P1		3	-
+202	-qa	P1		TOP	-
+203-204	runaqa	P1		_	(12
+203	runa	P1	person	NOUN	-
+204	-qa	P1		TOP	12)
+					
+205	huqta	P1	six	NUM	(15|(9
+206-207	chuspipa	P1		_	-
+206	chuspi	P1	fly	NOUN	-
+207	-pa	P1		GEN	9)
+208-211	almankunata	P1		_	-
+208	alma	P1	soul	NOUN	-
+209	-n	P1		3	-
+210	-kuna	P1		PL	-
+211	-ta	P1		OBJ	15)
+212-215	qaraskin	P1		_	-
+212	qa	P1	give	VERB	-
+213	-ra	P1		CONT	-
+214	-ski	P1		ITER	-
+215	-n	P1		3	-
+216-218	almanpa	P1		_	(15|(14
+216	alma	P1	soul	NOUN	-
+217	-n	P1		3	-
+218	-pa	P1		GEN	-
+219-220	remplasun	P1		_	14)
+219	remplasu	P1	replacement	NOUN	-
+220	-n	P1		3	15)
+					
+221-222	tsayna	P1		_	(15
+221	tsay	P1		DEM.DIST	-
+222	-na	P1		DISC	-
+223	alma	P1	soul	NOUN	15)
+224-229	qaraskiptinqa	P1			-
+224	qa	P1	give	VERB	-
+225	-ra	P1		CONT	-
+226	-ski	P1		ITER	-
+227	-pti	P1		SUBID	-
+228	-n	P1		3	-
+229	-qa	P1		TOP	-
+230-234	llullatsinqanta	P1		_	-
+230	llulla	P1	lie	VERB	-
+231	-tsi	P1		CAUS	-
+232	-nqa	P1		NMLZ	-
+233	-n	P1		3	
+234	-ta	P1		OBJ	-
+235-236	musyasha	P1		_	-
+235	musya	P1	know	VERB	-
+236	-sha	P1		PRTCP	-
+237	tsay	P1		DEM.DIST	(12
+238	runa	P1	person	NOUN	-
+239	ushqu	P1	blue	ADJ	-
+240	ñawi	P1	eye	NOUN	-
+241-242	runaqa	P1		_	-
+241	runa	P1	person	NOUN	-
+242	-qa	P1		TOP	12)
+					
+243-246	aywaykanqan	P1		_	-
+243	aywa	P1	go	VERB	-
+244	-yka	P1		PROG	-
+245	-nqa	P1		NMLZ	-
+246	-n	P1		3	-
+					
+247-250	aywakaptin	P1		_	-
+247	aywa	P1	go	VERB	-
+248	-ka	P1		MID	-
+249	-pti	P1		SUBDIFF	-
+250	-n	P1		3	-
+251-252	willan	P1		_	-
+251	willa	P1	tell	VERB	-
+252	-n	P1		3	-
+					
+253-254	willan	P1		_	-
+253	willa	P1	tell	VERB	-
+254	-n	P1		3	-
+255-257	tsaychawmi	P1		_	-
+255	tsay	P1		DEM.DIST	-
+256	-chaw	P1		LOC	-
+257	-mi	P1		ASS	-
+					
+258-259	kan	P1		_	-
+258	ka	P1		COP	-
+259	-n	P1		3	-
+260-262	aywaskiy	P1		_	-
+260	aywa	P1	go	VERB	-
+261	-ski	P1		ITER	-
+262	-y	P1		INF	-
+263-266	niptinqa	P1		_	-
+263	ni	P1	say	VERB	-
+264	-pti	P1		SUBDIFF	-
+265	-n	P1		3	-
+266	-qa	P1		TOP	-
+267-268	anir	P1		_	-
+267	ani	P1	accept	VERB	-
+268	-r	P1		SUBID	-
+269-270	aywan	P1		_	-
+269	aywa	P1	go	VERB	-
+270	-n	P1		3	-
+					
+271-273	tariskin	P1		_	-
+271	tari	P1	find	VERB	-
+272	-ski	P1		ITER	-
+273	-n	P1		3	-
+274	raslla	P1	fast	ADJ	-
+275-276	remediuta	P1		_	(4
+275	remediu	P1	medicine	NOUN	-
+276	-ta	P1		OBJ	4)
+277-280	ashinqanta	P1		_	-
+277	ashi	P1	search	VERB	-
+278	-nqa	P1		NMLZ	-
+279	-n	P1		3	-
+280	-ta	P1		OBJ	-
+281-282	hampita	P1		_	(4
+281	hampi	P1	medicine	NOUN	-
+282	-ta	P1		OBJ	4)
+283-284	niykurqa	P1		_	-
+283	niykur	P1	then	ADV	-
+284	-qa	P1		TOP	-
+285-287	asikur	P1		_	-
+285	asi	P1	laugh	VERB	-
+286	-ku	P1		MID	-
+287	-r	P1		SUBID	-
+288-290	wañuskin	P1		_	-
+288	wañu	P1	kill	VERB	-
+289	-ski	P1		ITER	-
+290	-n	P1		3	-
+					
+291-293	tsayllam	P1		_	-
+291	tsay	P1		DEM.DIST	-
+292	-lla	P1		LIM	-
+293	-m	P1		ASS	-
+294	cuentu	P1	story	NOUN	(1)

@@ -9,7 +9,7 @@ qxoRef is available under a [CC-BY-NC-SA 4.0 license](https://creativecommons.or
 
 ## To cite
 
-Article forthcoming.
+Pankratz, E. (2021). qxoRef 1.0: A coreference corpus and mention-pair baseline for coreference resolution in Conchucos Quechua. *Proceedings of the First Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP-NAACL 2021)*, 1–9. https://doi.org/10.18653/v1/2021.americasnlp-1.1
 
 ## The original data
 
